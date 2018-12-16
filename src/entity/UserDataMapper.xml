@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="entity.UserDataMapper" >
+  <resultMap id="BaseResultMap" type="entity.UserData" >
+    <id column="WWW" property="www" jdbcType="VARCHAR" />
+    <id column="USERNAME" property="username" jdbcType="VARCHAR" />
+    <result column="USERID" property="userid" jdbcType="VARCHAR" />
+    <result column="NAME" property="name" jdbcType="VARCHAR" />
+    <result column="PWD10" property="pwd10" jdbcType="VARCHAR" />
+    <result column="PWD6" property="pwd6" jdbcType="VARCHAR" />
+    <result column="SECONDPWD" property="secondpwd" jdbcType="VARCHAR" />
+    <result column="TEL" property="tel" jdbcType="VARCHAR" />
+    <result column="TEL1" property="tel1" jdbcType="VARCHAR" />
+    <result column="EMAIL" property="email" jdbcType="VARCHAR" />
+    <result column="EMAIL1" property="email1" jdbcType="VARCHAR" />
+    <result column="REGISTERDATE" property="registerdate" jdbcType="VARCHAR" />
+    <result column="PWDSAFE" property="pwdsafe" jdbcType="VARCHAR" />
+    <result column="NOTE" property="note" jdbcType="VARCHAR" />
+    <result column="STRNUM" property="strnum" jdbcType="VARCHAR" />
+    <result column="CARDIMAGE" property="cardimage" jdbcType="VARCHAR" />
+    
+  </resultMap>
+  <sql id="Base_Column_List" >
+    WWW, USERNAME, USERID, NAME, PWD10, PWD6, SECONDPWD, TEL, TEL1, EMAIL, EMAIL1, REGISTERDATE, 
+    PWDSAFE, NOTE, STRNUM, CARDIMAGE
+  </sql>
+  <!--根据联合主键www+username查一个用户对象 -->
+  <select id="selectByPrimaryKey" resultMap="BaseResultMap" parameterType="map" >
+    select <include refid="Base_Column_List" />  from userdata
+    where www = #{www,jdbcType=VARCHAR} and username = #{username,jdbcType=VARCHAR}
+  </select>
+  <!--根据联合主键www+username删除一个用户对象 -->
+  <delete id="deleteByPrimaryKey" parameterType="map" >
+    delete from userdata where www = #{www,jdbcType=VARCHAR} and username = #{username,jdbcType=VARCHAR}
+  </delete>
+  <!--插入一个用户对象 -->
+  <insert id="insert" parameterType="entity.UserData" >
+    insert into userdata (www, username, userid, name, pwd10, pwd6, 
+      secondpwd, tel, tel1,email, email1, registerdate, 
+      pwdsafe, note, strnum,cardimage)
+    values (#{www,jdbcType=VARCHAR}, #{username,jdbcType=VARCHAR}, #{userid,jdbcType=VARCHAR}, 
+      #{name,jdbcType=VARCHAR}, #{pwd10,jdbcType=VARCHAR}, #{pwd6,jdbcType=VARCHAR}, 
+      #{secondpwd,jdbcType=VARCHAR}, #{tel,jdbcType=VARCHAR}, #{tel1,jdbcType=VARCHAR}, 
+      #{email,jdbcType=VARCHAR}, #{email1,jdbcType=VARCHAR}, #{registerdate,jdbcType=VARCHAR}, 
+      #{pwdsafe,jdbcType=VARCHAR}, #{note,jdbcType=VARCHAR}, #{strnum,jdbcType=VARCHAR}, 
+      #{cardimage,jdbcType=VARCHAR})
+  </insert>
+  <!--插入一个用户对象的部分信息 -->
+  <insert id="insertSelective" parameterType="entity.UserData" >
+    insert into userdata
+    <trim prefix="(" suffix=")" suffixOverrides="," >
+      <if test="www != null" >www,</if>
+      <if test="username != null" >username,</if>
+      <if test="userid != null" >USERID,</if>
+      <if test="name != null" >NAME,</if>
+      <if test="pwd10 != null" >PWD10,</if>
+      <if test="pwd6 != null" >PWD6,</if>
+      <if test="secondpwd != null" >SECONDPWD,</if>
+      <if test="tel != null" >TEL,</if>
+      <if test="tel1 != null" >TEL1,</if>
+      <if test="email != null" >EMAIL,</if>
+      <if test="email1 != null" >EMAIL1,</if>
+      <if test="registerdate != null" >REGISTERDATE,</if>
+      <if test="pwdsafe != null" >PWDSAFE,</if>
+      <if test="note != null" >NOTE,</if>
+      <if test="strnum != null" >STRNUM,</if>
+      <if test="cardimage != null" >CARDIMAGE,</if>
+    </trim>
+    <trim prefix="values (" suffix=")" suffixOverrides="," >
+      <if test="www != null" >#{www,jdbcType=VARCHAR},</if>
+      <if test="username != null" >#{username,jdbcType=VARCHAR},</if>
+      <if test="userid != null" >#{userid,jdbcType=VARCHAR},</if>
+      <if test="name != null" >#{name,jdbcType=VARCHAR},</if>
+      <if test="pwd10 != null" >#{pwd10,jdbcType=VARCHAR},</if>
+      <if test="pwd6 != null" >#{pwd6,jdbcType=VARCHAR},</if>
+      <if test="secondpwd != null" >#{secondpwd,jdbcType=VARCHAR},</if>
+      <if test="tel != null" >#{tel,jdbcType=VARCHAR},</if>
+      <if test="tel1 != null" >#{tel1,jdbcType=VARCHAR},</if>
+      <if test="email != null" >#{email,jdbcType=VARCHAR},</if>
+      <if test="email1 != null" >#{email1,jdbcType=VARCHAR},</if>
+      <if test="registerdate != null" >#{registerdate,jdbcType=VARCHAR},</if>
+      <if test="pwdsafe != null" >#{pwdsafe,jdbcType=VARCHAR},</if>
+      <if test="note != null" >#{note,jdbcType=VARCHAR},</if>
+      <if test="strnum != null" >#{strnum,jdbcType=VARCHAR},</if>
+      <if test="cardimage != null" >#{cardimage,jdbcType=VARCHAR},</if>
+    </trim>
+  </insert>
+  <!--更新一个用户对象的部分信息 -->
+  <update id="updateByPrimaryKeySelective" parameterType="entity.UserData" >
+    update userdata
+    <set >
+      <if test="userid != null" >USERID = #{userid,jdbcType=VARCHAR},</if>
+      <if test="name != null" >NAME = #{name,jdbcType=VARCHAR},</if>
+      <if test="pwd10 != null" >PWD10 = #{pwd10,jdbcType=VARCHAR},</if>
+      <if test="pwd6 != null" >PWD6 = #{pwd6,jdbcType=VARCHAR},</if>
+      <if test="secondpwd != null" >SECONDPWD = #{secondpwd,jdbcType=VARCHAR},</if>
+      <if test="tel != null" >TEL = #{tel,jdbcType=VARCHAR},</if>
+      <if test="tel1 != null" >TEL1 = #{tel1,jdbcType=VARCHAR},</if>
+      <if test="email != null" >EMAIL = #{email,jdbcType=VARCHAR},</if>
+      <if test="email1 != null" >EMAIL1 = #{email1,jdbcType=VARCHAR},</if>
+      <if test="registerdate != null" >REGISTERDATE = #{registerdate,jdbcType=VARCHAR},</if>
+      <if test="pwdsafe != null" >PWDSAFE = #{pwdsafe,jdbcType=VARCHAR},</if>
+      <if test="note != null" >NOTE = #{note,jdbcType=VARCHAR},</if>
+      <if test="strnum != null" >STRNUM = #{strnum,jdbcType=VARCHAR},</if>
+      <if test="cardimage != null" >CARDIMAGE = #{cardimage,jdbcType=VARCHAR},</if>
+    </set>
+    where WWW = #{www,jdbcType=VARCHAR} and USERNAME = #{username,jdbcType=VARCHAR}
+  </update>
+  <!--更新一个用户对象的信息 -->
+  <update id="updateByPrimaryKey" parameterType="entity.UserData" >
+    update MYTABLE.USERDATA
+    set USERID = #{userid,jdbcType=VARCHAR},
+      NAME = #{name,jdbcType=VARCHAR},
+      PWD10 = #{pwd10,jdbcType=VARCHAR},
+      PWD6 = #{pwd6,jdbcType=VARCHAR},
+      SECONDPWD = #{secondpwd,jdbcType=VARCHAR},
+      TEL = #{tel,jdbcType=VARCHAR},
+      TEL1 = #{tel1,jdbcType=VARCHAR},
+      EMAIL = #{email,jdbcType=VARCHAR},
+      EMAIL1 = #{email1,jdbcType=VARCHAR},
+      REGISTERDATE = #{registerdate,jdbcType=VARCHAR},
+      PWDSAFE = #{pwdsafe,jdbcType=VARCHAR},
+      NOTE = #{note,jdbcType=VARCHAR},
+      STRNUM = #{strnum,jdbcType=VARCHAR},
+      CARDIMAGE = #{cardimage,jdbcType=VARCHAR}
+    where WWW = #{www,jdbcType=VARCHAR} and USERNAME = #{username,jdbcType=VARCHAR}
+  </update>
+</mapper>

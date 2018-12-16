@@ -1,0 +1,779 @@
+2018-05-02 21:35:09 oracle_jdbc.Insert_cardId.insert(Insert_cardId.java:42) Insert_cardId.java DEBUG ¿ªÊ¼Ö´ÐÐ
+2018-05-02 21:35:09 oracle_jdbc.Insert_cardId.insert(Insert_cardId.java:44) Insert_cardId.java DEBUG ¼ÓÔØ³É¹¦
+2018-05-02 21:35:10 oracle_jdbc.Insert_cardId.insert(Insert_cardId.java:46) Insert_cardId.java DEBUG ´´½¨Á¬½Ó³É¹¦
+2018-05-02 21:35:58 oracle_jdbc.Insert_cardId.insert(Insert_cardId.java:42) Insert_cardId.java DEBUG ¿ªÊ¼Ö´ÐÐ
+2018-05-02 21:35:58 oracle_jdbc.Insert_cardId.insert(Insert_cardId.java:44) Insert_cardId.java DEBUG ¼ÓÔØ³É¹¦
+2018-05-02 21:35:59 oracle_jdbc.Insert_cardId.insert(Insert_cardId.java:46) Insert_cardId.java DEBUG ´´½¨Á¬½Ó³É¹¦
+2018-05-02 21:35:59 oracle_jdbc.Insert_cardId.insert(Insert_cardId.java:73) Insert_cardId.java DEBUG Ã»ÓÐÖ´ÐÐSQLÓï¾ä
+2018-05-02 21:36:22 oracle_jdbc.Insert_cardId.insert(Insert_cardId.java:42) Insert_cardId.java DEBUG ¿ªÊ¼Ö´ÐÐ
+2018-05-02 21:36:22 oracle_jdbc.Insert_cardId.insert(Insert_cardId.java:44) Insert_cardId.java DEBUG ¼ÓÔØ³É¹¦
+2018-05-02 21:36:23 oracle_jdbc.Insert_cardId.insert(Insert_cardId.java:46) Insert_cardId.java DEBUG ´´½¨Á¬½Ó³É¹¦
+2018-05-02 21:36:23 oracle_jdbc.Insert_cardId.insert(Insert_cardId.java:62) Insert_cardId.java DEBUG Ö´ÐÐSQLÓï¾ä³É¹¦
+2018-05-08 20:17:07 oracle_jdbc.Insert_cardId.insert(Insert_cardId.java:42) Insert_cardId.java DEBUG ¿ªÊ¼Ö´ÐÐ
+2018-05-08 20:17:07 oracle_jdbc.Insert_cardId.insert(Insert_cardId.java:44) Insert_cardId.java DEBUG ¼ÓÔØ³É¹¦
+2018-05-08 20:17:09 oracle_jdbc.Insert_cardId.insert(Insert_cardId.java:46) Insert_cardId.java DEBUG ´´½¨Á¬½Ó³É¹¦
+2018-05-08 20:17:10 oracle_jdbc.Insert_cardId.insert(Insert_cardId.java:73) Insert_cardId.java DEBUG Ã»ÓÐÖ´ÐÐSQLÓï¾ä
+2018-05-11 16:37:56 oracle_jdbc.PasswordInfo.<init>(PasswordInfo.java:26) PasswordInfo.java DEBUG ¿ªÊ¼Ö´ÐÐ
+2018-05-11 16:37:58 oracle_jdbc.PasswordInfo.<init>(PasswordInfo.java:28) PasswordInfo.java DEBUG ¼ÓÔØ³É¹¦
+2018-05-11 16:38:00 oracle_jdbc.PasswordInfo.save(PasswordInfo.java:157) PasswordInfo.java DEBUG ÒÑ´æÔÚ²»Ö´ÐÐÁË²åÈë430523198311070056www.hao123.com
+2018-05-11 16:38:24 oracle_jdbc.PasswordInfo.<init>(PasswordInfo.java:26) PasswordInfo.java DEBUG ¿ªÊ¼Ö´ÐÐ
+2018-05-11 16:38:24 oracle_jdbc.PasswordInfo.<init>(PasswordInfo.java:28) PasswordInfo.java DEBUG ¼ÓÔØ³É¹¦
+2018-05-11 16:39:25 oracle_jdbc.PasswordInfo.save(PasswordInfo.java:157) PasswordInfo.java DEBUG ÒÑ´æÔÚ²»Ö´ÐÐÁË²åÈë430523198311070056www.hao123.com
+2018-05-11 16:48:45 oracle_jdbc.PasswordInfo.<init>(PasswordInfo.java:26) PasswordInfo.java DEBUG ¿ªÊ¼Ö´ÐÐ
+2018-05-11 16:48:45 oracle_jdbc.PasswordInfo.<init>(PasswordInfo.java:28) PasswordInfo.java DEBUG ¼ÓÔØ³É¹¦
+2018-05-11 16:48:46 oracle_jdbc.PasswordInfo.save(PasswordInfo.java:157) PasswordInfo.java DEBUG ÒÑ´æÔÚ²»Ö´ÐÐÁË²åÈë430523198311070056www.hao123.com
+2018-05-11 17:10:09 oracle_jdbc.PasswordInfo.<init>(PasswordInfo.java:26) PasswordInfo.java DEBUG ¿ªÊ¼Ö´ÐÐ
+2018-05-11 17:10:09 oracle_jdbc.PasswordInfo.<init>(PasswordInfo.java:28) PasswordInfo.java DEBUG ¼ÓÔØ³É¹¦
+2018-05-11 17:10:10 oracle_jdbc.PasswordInfo.save(PasswordInfo.java:157) PasswordInfo.java DEBUG ÒÑ´æÔÚ²»Ö´ÐÐÁË²åÈë430523198311070056www.hao123.com
+2018-05-11 17:20:05 oracle_jdbc.PasswordInfo.<init>(PasswordInfo.java:26) PasswordInfo.java DEBUG ¿ªÊ¼Ö´ÐÐ
+2018-05-11 17:20:05 oracle_jdbc.PasswordInfo.<init>(PasswordInfo.java:28) PasswordInfo.java DEBUG ¼ÓÔØ³É¹¦
+2018-05-11 17:20:06 oracle_jdbc.PasswordInfo.save(PasswordInfo.java:157) PasswordInfo.java DEBUG ÒÑ´æÔÚ²»Ö´ÐÐÁË²åÈë430523198311070056www.hao123.com
+2018-05-11 17:20:55 oracle_jdbc.PasswordInfo.<init>(PasswordInfo.java:26) PasswordInfo.java DEBUG ¿ªÊ¼Ö´ÐÐ
+2018-05-11 17:20:55 oracle_jdbc.PasswordInfo.<init>(PasswordInfo.java:28) PasswordInfo.java DEBUG ¼ÓÔØ³É¹¦
+2018-05-11 17:20:57 oracle_jdbc.PasswordInfo.save(PasswordInfo.java:157) PasswordInfo.java DEBUG ÒÑ´æÔÚ²»Ö´ÐÐÁË²åÈë430523198311070056www.hao123.com
+2018-05-11 17:23:48 oracle_jdbc.PasswordInfo.<init>(PasswordInfo.java:26) PasswordInfo.java DEBUG ¿ªÊ¼Ö´ÐÐ
+2018-05-11 17:23:48 oracle_jdbc.PasswordInfo.<init>(PasswordInfo.java:28) PasswordInfo.java DEBUG ¼ÓÔØ³É¹¦
+2018-05-11 17:23:49 oracle_jdbc.PasswordInfo.save(PasswordInfo.java:157) PasswordInfo.java DEBUG ÒÑ´æÔÚ²»Ö´ÐÐÁË²åÈë430523198311070056www.hao123.com
+2018-05-11 17:23:49 oracle_jdbc.PasswordInfo.save(PasswordInfo.java:177) PasswordInfo.java DEBUG ÒÑ´æÔÚ²»Ö´ÐÐ²åÈë£¬Ö»¸üÐÂÃÜÂë£¬ÈÕÆÚDqMnfdJe5wX041600
+2018-05-11 17:24:42 oracle_jdbc.PasswordInfo.<init>(PasswordInfo.java:26) PasswordInfo.java DEBUG ¿ªÊ¼Ö´ÐÐ
+2018-05-11 17:24:42 oracle_jdbc.PasswordInfo.<init>(PasswordInfo.java:28) PasswordInfo.java DEBUG ¼ÓÔØ³É¹¦
+2018-05-11 17:24:43 oracle_jdbc.PasswordInfo.save(PasswordInfo.java:157) PasswordInfo.java DEBUG ÒÑ´æÔÚ²»Ö´ÐÐÁË²åÈë430523198311070056www.hao123.com
+2018-05-11 17:24:51 oracle_jdbc.PasswordInfo.save(PasswordInfo.java:177) PasswordInfo.java DEBUG ÒÑ´æÔÚ²»Ö´ÐÐ²åÈë£¬Ö»¸üÐÂÃÜÂë£¬ÈÕÆÚDqMnfdJe5wX041600
+2018-05-11 17:29:00 oracle_jdbc.PasswordInfo.<init>(PasswordInfo.java:26) PasswordInfo.java DEBUG ¿ªÊ¼Ö´ÐÐ
+2018-05-11 17:29:00 oracle_jdbc.PasswordInfo.<init>(PasswordInfo.java:28) PasswordInfo.java DEBUG ¼ÓÔØ³É¹¦
+2018-05-11 17:29:01 oracle_jdbc.PasswordInfo.save(PasswordInfo.java:158) PasswordInfo.java DEBUG ÒÑ´æÔÚ²»Ö´ÐÐÁË²åÈë430523198311070056www.hao123.com
+2018-05-11 17:29:11 oracle_jdbc.PasswordInfo.save(PasswordInfo.java:178) PasswordInfo.java DEBUG ÒÑ´æÔÚ²»Ö´ÐÐ²åÈë£¬Ö»¸üÐÂÃÜÂë£¬ÈÕÆÚDqMnfdJe5wX041600
+2018-05-11 17:36:51 oracle_jdbc.PasswordInfo.<init>(PasswordInfo.java:26) PasswordInfo.java DEBUG ¿ªÊ¼Ö´ÐÐ
+2018-05-11 17:36:51 oracle_jdbc.PasswordInfo.<init>(PasswordInfo.java:28) PasswordInfo.java DEBUG ¼ÓÔØ³É¹¦
+2018-05-11 17:36:52 oracle_jdbc.PasswordInfo.save(PasswordInfo.java:158) PasswordInfo.java DEBUG ÒÑ´æÔÚ²»Ö´ÐÐÁË²åÈë430523198311070056www.hao123.com
+2018-05-11 17:36:52 oracle_jdbc.PasswordInfo.save(PasswordInfo.java:178) PasswordInfo.java DEBUG ÒÑ´æÔÚ²»Ö´ÐÐ²åÈë£¬Ö»¸üÐÂÃÜÂë£¬ÈÕÆÚDqMnfdJe5wX041600
+2018-05-11 17:38:46 oracle_jdbc.PasswordInfo.<init>(PasswordInfo.java:26) PasswordInfo.java DEBUG ¿ªÊ¼Ö´ÐÐ
+2018-05-11 17:38:47 oracle_jdbc.PasswordInfo.<init>(PasswordInfo.java:28) PasswordInfo.java DEBUG ¼ÓÔØ³É¹¦
+2018-05-11 17:38:48 oracle_jdbc.PasswordInfo.save(PasswordInfo.java:158) PasswordInfo.java DEBUG ÒÑ´æÔÚ²»Ö´ÐÐÁË²åÈë430523198311070056www.hao123.com
+2018-05-11 17:38:48 oracle_jdbc.PasswordInfo.save(PasswordInfo.java:178) PasswordInfo.java DEBUG ÒÑ´æÔÚ²»Ö´ÐÐ²åÈë£¬Ö»¸üÐÂÃÜÂë£¬ÈÕÆÚDqMnfdJe5wX041600
+2018-05-11 17:38:48 oracle_jdbc.PasswordInfo.save(PasswordInfo.java:189) PasswordInfo.java DEBUG Ö´ÐÐÁË²åÈëÐÞ¸Ä¼ÇÂ¼jiance520www.hao123.comDqMnfdJe5wX041600
+2018-05-11 19:47:05 oracle_jdbc.PasswordInfo.<init>(PasswordInfo.java:26) PasswordInfo.java DEBUG ¿ªÊ¼Ö´ÐÐ
+2018-05-11 19:47:05 oracle_jdbc.PasswordInfo.<init>(PasswordInfo.java:28) PasswordInfo.java DEBUG ¼ÓÔØ³É¹¦
+2018-05-11 19:47:06 oracle_jdbc.PasswordInfo.queryUser(PasswordInfo.java:212) PasswordInfo.java DEBUG Ö´ÐÐSQLÓï¾ä²éÑ¯³É¹¦
+2018-05-11 19:48:06 oracle_jdbc.PasswordInfo.<init>(PasswordInfo.java:26) PasswordInfo.java DEBUG ¿ªÊ¼Ö´ÐÐ
+2018-05-11 19:48:06 oracle_jdbc.PasswordInfo.<init>(PasswordInfo.java:28) PasswordInfo.java DEBUG ¼ÓÔØ³É¹¦
+2018-05-11 19:48:07 oracle_jdbc.PasswordInfo.queryUser(PasswordInfo.java:212) PasswordInfo.java DEBUG Ö´ÐÐSQLÓï¾ä²éÑ¯³É¹¦
+2018-05-11 19:52:17 oracle_jdbc.PasswordInfo.<init>(PasswordInfo.java:26) PasswordInfo.java DEBUG ¿ªÊ¼Ö´ÐÐ
+2018-05-11 19:52:17 oracle_jdbc.PasswordInfo.<init>(PasswordInfo.java:28) PasswordInfo.java DEBUG ¼ÓÔØ³É¹¦
+2018-05-11 19:52:18 oracle_jdbc.PasswordInfo.queryUser(PasswordInfo.java:212) PasswordInfo.java DEBUG Ö´ÐÐSQLÓï¾ä²éÑ¯ÓÃ»§³É¹¦
+2018-05-11 19:52:18 oracle_jdbc.PasswordInfo.queryRecord(PasswordInfo.java:236) PasswordInfo.java DEBUG Ö´ÐÐSQLÓï¾ä²éÑ¯¼ÇÂ¼³É¹¦
+2018-05-13 23:34:35 oracle_jdbc.JdbcUtil.executeQueryRS(JdbcUtil.java:107) JdbcUtil.java DEBUG executeUpdateRS²éÑ¯´íÎó
+2018-05-13 23:34:35 oracle_jdbc.JdbcUtil.closeAll(JdbcUtil.java:234) JdbcUtil.java DEBUG È«²¿¹Ø±Õ³É¹¦
+2018-05-13 23:37:35 oracle_jdbc.JdbcUtil.executeQueryRS(JdbcUtil.java:107) JdbcUtil.java DEBUG executeUpdateRS²éÑ¯´íÎó
+2018-05-13 23:37:35 oracle_jdbc.JdbcUtil.closeAll(JdbcUtil.java:234) JdbcUtil.java DEBUG È«²¿¹Ø±Õ³É¹¦
+2018-05-13 23:47:18 oracle_jdbc.JdbcUtil.executeQueryRS(JdbcUtil.java:107) JdbcUtil.java DEBUG executeUpdateRS²éÑ¯´íÎó
+2018-05-13 23:47:18 oracle_jdbc.JdbcUtil.closeAll(JdbcUtil.java:234) JdbcUtil.java DEBUG È«²¿¹Ø±Õ³É¹¦
+2018-05-13 23:53:39 oracle_jdbc.JdbcUtil.executeQueryRS(JdbcUtil.java:107) JdbcUtil.java DEBUG executeUpdateRS²éÑ¯´íÎó
+2018-05-13 23:53:39 oracle_jdbc.JdbcUtil.closeAll(JdbcUtil.java:234) JdbcUtil.java DEBUG È«²¿¹Ø±Õ³É¹¦
+2018-05-13 23:57:50 oracle_jdbc.JdbcUtil.executeQueryRS(JdbcUtil.java:107) JdbcUtil.java DEBUG executeUpdateRS²éÑ¯´íÎó
+2018-05-13 23:57:50 oracle_jdbc.JdbcUtil.closeAll(JdbcUtil.java:234) JdbcUtil.java DEBUG È«²¿¹Ø±Õ³É¹¦
+2018-05-14 14:35:52 oracle_jdbc.JdbcUtil.closeAll(JdbcUtil.java:234) JdbcUtil.java DEBUG È«²¿¹Ø±Õ³É¹¦
+2018-05-14 14:37:11 oracle_jdbc.JdbcUtil.closeAll(JdbcUtil.java:234) JdbcUtil.java DEBUG È«²¿¹Ø±Õ³É¹¦
+2018-05-14 14:40:25 oracle_jdbc.JdbcUtil.closeAll(JdbcUtil.java:235) JdbcUtil.java DEBUG È«²¿¹Ø±Õ³É¹¦
+2018-05-14 14:41:33 oracle_jdbc.JdbcUtil.closeAll(JdbcUtil.java:235) JdbcUtil.java DEBUG È«²¿¹Ø±Õ³É¹¦
+2018-05-14 14:42:18 oracle_jdbc.JdbcUtil.closeAll(JdbcUtil.java:235) JdbcUtil.java DEBUG È«²¿¹Ø±Õ³É¹¦
+2018-05-14 14:43:28 oracle_jdbc.JdbcUtil.closeAll(JdbcUtil.java:236) JdbcUtil.java DEBUG È«²¿¹Ø±Õ³É¹¦
+2018-05-14 14:45:42 oracle_jdbc.JdbcUtil.closeAll(JdbcUtil.java:235) JdbcUtil.java DEBUG È«²¿¹Ø±Õ³É¹¦
+2018-05-14 14:53:27 oracle_jdbc.JdbcUtil.exectueQuery(JdbcUtil.java:145) JdbcUtil.java DEBUG exectueQuery²éÑ¯´íÎó
+2018-05-14 14:53:27 oracle_jdbc.JdbcUtil.closeAll(JdbcUtil.java:230) JdbcUtil.java DEBUG È«²¿¹Ø±Õ³É¹¦
+2018-05-14 15:01:29 oracle_jdbc.JdbcUtil.exectueQuery(JdbcUtil.java:149) JdbcUtil.java DEBUG exectueQuery²éÑ¯´íÎó
+2018-05-14 15:01:29 oracle_jdbc.JdbcUtil.closeAll(JdbcUtil.java:234) JdbcUtil.java DEBUG È«²¿¹Ø±Õ³É¹¦
+2018-05-14 15:04:52 oracle_jdbc.JdbcUtil.exectueQuery(JdbcUtil.java:149) JdbcUtil.java DEBUG exectueQuery²éÑ¯´íÎó
+2018-05-14 15:04:52 oracle_jdbc.JdbcUtil.closeAll(JdbcUtil.java:234) JdbcUtil.java DEBUG È«²¿¹Ø±Õ³É¹¦
+2018-05-14 15:05:37 oracle_jdbc.JdbcUtil.closeAll(JdbcUtil.java:234) JdbcUtil.java DEBUG È«²¿¹Ø±Õ³É¹¦
+2018-05-14 15:08:14 oracle_jdbc.JdbcUtil.closeAll(JdbcUtil.java:230) JdbcUtil.java DEBUG È«²¿¹Ø±Õ³É¹¦
+2018-05-14 15:10:34 oracle_jdbc.JdbcUtil.closeAll(JdbcUtil.java:230) JdbcUtil.java DEBUG È«²¿¹Ø±Õ³É¹¦
+2018-05-14 15:10:34 oracle_jdbc.JdbcUtil.closeAll(JdbcUtil.java:230) JdbcUtil.java DEBUG È«²¿¹Ø±Õ³É¹¦
+2018-05-14 15:23:46 oracle_jdbc.JdbcUtil.closeAll(JdbcUtil.java:230) JdbcUtil.java DEBUG È«²¿¹Ø±Õ³É¹¦
+2018-05-14 15:23:46 oracle_jdbc.JdbcUtil.closeAll(JdbcUtil.java:230) JdbcUtil.java DEBUG È«²¿¹Ø±Õ³É¹¦
+2018-05-14 15:31:27 oracle_jdbc.JdbcUtil.closeAll(JdbcUtil.java:230) JdbcUtil.java DEBUG È«²¿¹Ø±Õ³É¹¦
+2018-05-14 15:32:43 oracle_jdbc.JdbcUtil.closeAll(JdbcUtil.java:230) JdbcUtil.java DEBUG È«²¿¹Ø±Õ³É¹¦
+2018-05-14 15:34:30 oracle_jdbc.JdbcUtil.closeAll(JdbcUtil.java:231) JdbcUtil.java DEBUG È«²¿¹Ø±Õ³É¹¦
+2018-05-14 15:35:34 oracle_jdbc.JdbcUtil.closeAll(JdbcUtil.java:231) JdbcUtil.java DEBUG È«²¿¹Ø±Õ³É¹¦
+2018-05-14 16:29:50 oracle_jdbc.JdbcUtil.closeAll(JdbcUtil.java:259) JdbcUtil.java DEBUG È«²¿¹Ø±Õ³É¹¦
+2018-05-14 17:02:41 oracle_jdbc.JdbcUtil.closeAll(JdbcUtil.java:262) JdbcUtil.java DEBUG È«²¿¹Ø±Õ³É¹¦
+2018-05-14 17:12:42 oracle_jdbc.JdbcUtil.closeAll(JdbcUtil.java:264) JdbcUtil.java DEBUG È«²¿¹Ø±Õ³É¹¦
+2018-05-14 17:24:19 oracle_jdbc.JdbcUtil.executeUpdate(JdbcUtil.java:82) JdbcUtil.java DEBUG executeUpdate²éÑ¯´íÎó
+2018-05-14 17:24:19 oracle_jdbc.JdbcUtil.closeAll(JdbcUtil.java:264) JdbcUtil.java DEBUG È«²¿¹Ø±Õ³É¹¦
+2018-05-14 17:44:16 oracle_jdbc.JdbcUtil.executeUpdate(JdbcUtil.java:83) JdbcUtil.java DEBUG executeUpdate²éÑ¯´íÎó
+2018-05-14 17:44:16 oracle_jdbc.JdbcUtil.closeAll(JdbcUtil.java:265) JdbcUtil.java DEBUG È«²¿¹Ø±Õ³É¹¦
+2018-05-14 17:45:50 oracle_jdbc.JdbcUtil.executeUpdate(JdbcUtil.java:83) JdbcUtil.java DEBUG executeUpdate¸üÐÂ´íÎó
+2018-05-14 17:45:50 oracle_jdbc.JdbcUtil.closeAll(JdbcUtil.java:265) JdbcUtil.java DEBUG È«²¿¹Ø±Õ³É¹¦
+2018-05-14 17:48:28 oracle_jdbc.JdbcUtil.closeAll(JdbcUtil.java:265) JdbcUtil.java DEBUG È«²¿¹Ø±Õ³É¹¦
+2018-05-14 19:45:42 oracle_jdbc.JdbcUtil.executeUpdate(JdbcUtil.java:83) JdbcUtil.java DEBUG executeUpdate¸üÐÂ´íÎó
+2018-05-14 19:45:42 oracle_jdbc.JdbcUtil.closeAll(JdbcUtil.java:265) JdbcUtil.java DEBUG È«²¿¹Ø±Õ³É¹¦
+2018-05-14 19:46:27 oracle_jdbc.JdbcUtil.closeAll(JdbcUtil.java:265) JdbcUtil.java DEBUG È«²¿¹Ø±Õ³É¹¦
+2018-05-14 19:49:55 oracle_jdbc.JdbcUtil.closeAll(JdbcUtil.java:265) JdbcUtil.java DEBUG È«²¿¹Ø±Õ³É¹¦
+2018-05-14 22:33:20 oracle_jdbc.JdbcUtil.queryProcedure(JdbcUtil.java:211) JdbcUtil.java DEBUG exectueQuery²éÑ¯´íÎó
+2018-05-14 22:33:20 oracle_jdbc.JdbcUtil.closeAll(JdbcUtil.java:265) JdbcUtil.java DEBUG È«²¿¹Ø±Õ³É¹¦
+2018-05-14 22:40:32 oracle_jdbc.JdbcUtil.closeAll(JdbcUtil.java:265) JdbcUtil.java DEBUG È«²¿¹Ø±Õ³É¹¦
+2018-05-14 22:45:17 oracle_jdbc.JdbcUtil.closeAll(JdbcUtil.java:265) JdbcUtil.java DEBUG È«²¿¹Ø±Õ³É¹¦
+2018-05-14 22:46:26 oracle_jdbc.JdbcUtil.closeAll(JdbcUtil.java:265) JdbcUtil.java DEBUG È«²¿¹Ø±Õ³É¹¦
+2018-05-14 22:47:00 oracle_jdbc.JdbcUtil.closeAll(JdbcUtil.java:265) JdbcUtil.java DEBUG È«²¿¹Ø±Õ³É¹¦
+2018-05-14 23:17:26 oracle_jdbc.JdbcUtil.closeAll(JdbcUtil.java:278) JdbcUtil.java DEBUG È«²¿¹Ø±Õ³É¹¦
+2018-05-14 23:24:34 oracle_jdbc.JdbcUtil.queryFunction(JdbcUtil.java:258) JdbcUtil.java DEBUG queryProcedure²éÑ¯´íÎó
+2018-05-14 23:24:34 oracle_jdbc.JdbcUtil.closeAll(JdbcUtil.java:311) JdbcUtil.java DEBUG È«²¿¹Ø±Õ³É¹¦
+2018-05-14 23:26:33 oracle_jdbc.JdbcUtil.closeAll(JdbcUtil.java:311) JdbcUtil.java DEBUG È«²¿¹Ø±Õ³É¹¦
+2018-05-14 23:36:46 oracle_jdbc.JdbcUtil.closeAll(JdbcUtil.java:311) JdbcUtil.java DEBUG È«²¿¹Ø±Õ³É¹¦
+2018-05-14 23:43:28 oracle_jdbc.JdbcUtil.closeAll(JdbcUtil.java:304) JdbcUtil.java DEBUG È«²¿¹Ø±Õ³É¹¦
+2018-05-14 23:44:10 oracle_jdbc.JdbcUtil.queryFunction(JdbcUtil.java:251) JdbcUtil.java DEBUG queryProcedure²éÑ¯´íÎó
+2018-05-14 23:44:10 oracle_jdbc.JdbcUtil.closeAll(JdbcUtil.java:304) JdbcUtil.java DEBUG È«²¿¹Ø±Õ³É¹¦
+2018-05-14 23:46:10 oracle_jdbc.JdbcUtil.closeAll(JdbcUtil.java:304) JdbcUtil.java DEBUG È«²¿¹Ø±Õ³É¹¦
+2018-06-06 23:26:56 org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-06-06 23:32:15 org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-06-06 23:38:49 org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-06-06 23:40:42 org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-06-06 23:46:45 org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-06-06 23:54:31 org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-06-07 00:01:26 org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-06-07 11:38:22 org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-06-07 11:42:12 org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-06-07 11:51:25 org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-06-07 11:52:34 org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-06-07 11:57:32 org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-06-07 12:00:39 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2018-06-07 14:24:02 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2018-06-07 14:30:05 service.impl.UserDataService.<init>(UserDataService.java:22) UserDataService.java DEBUG ³õÊ¼»¯
+2018-06-07 14:33:15 service.impl.UserDataService.<init>(UserDataService.java:22) UserDataService.java DEBUG ³õÊ¼»¯
+2018-06-07 14:36:05 service.impl.UserDataService.<init>(UserDataService.java:22) UserDataService.java DEBUG ³õÊ¼»¯
+2018-06-07 14:37:39 service.impl.UserDataService.<init>(UserDataService.java:22) UserDataService.java DEBUG ³õÊ¼»¯
+2018-06-07 14:41:29 service.impl.UserDataService.<init>(UserDataService.java:22) UserDataService.java DEBUG ³õÊ¼»¯
+2018-06-07 14:43:19 service.impl.UserDataService.<init>(UserDataService.java:22) UserDataService.java DEBUG ³õÊ¼»¯
+2018-06-07 14:44:59 service.impl.UserDataService.<init>(UserDataService.java:22) UserDataService.java DEBUG ³õÊ¼»¯
+2018-06-07 14:44:59 util.MyBatisUtil.getFactory(MyBatisUtil.java:18) MyBatisUtil.java DEBUG ¿ªÊ¼Éú³Éfactory
+2018-06-07 14:46:02 service.impl.UserDataService.<init>(UserDataService.java:22) UserDataService.java DEBUG ³õÊ¼»¯
+2018-06-07 14:46:02 util.MyBatisUtil.getFactory(MyBatisUtil.java:18) MyBatisUtil.java DEBUG ¿ªÊ¼Éú³Éfactory
+2018-06-07 14:46:02 util.MyBatisUtil.getFactory(MyBatisUtil.java:21) MyBatisUtil.java DEBUG java.io.BufferedInputStream@31221be2
+2018-06-07 14:50:56 service.impl.UserDataService.<init>(UserDataService.java:22) UserDataService.java DEBUG ³õÊ¼»¯
+2018-06-07 14:50:56 util.MyBatisUtil.getFactory(MyBatisUtil.java:18) MyBatisUtil.java DEBUG ¿ªÊ¼Éú³Éfactory
+2018-06-07 14:50:56 util.MyBatisUtil.getFactory(MyBatisUtil.java:20) MyBatisUtil.java DEBUG java.io.BufferedInputStream@31221be2
+2018-06-07 14:51:53 service.impl.UserDataService.<init>(UserDataService.java:22) UserDataService.java DEBUG ³õÊ¼»¯
+2018-06-07 14:51:53 util.MyBatisUtil.getFactory(MyBatisUtil.java:18) MyBatisUtil.java DEBUG ¿ªÊ¼Éú³Éfactory
+2018-06-07 14:51:53 util.MyBatisUtil.getSession(MyBatisUtil.java:34) MyBatisUtil.java DEBUG Éú³Ésessionnull
+2018-06-07 14:51:53 service.impl.UserDataService.<init>(UserDataService.java:25) UserDataService.java DEBUG ³õÊ¼»¯2
+2018-06-07 14:57:08 service.impl.UserDataService.<init>(UserDataService.java:22) UserDataService.java DEBUG ³õÊ¼»¯
+2018-06-07 14:57:08 util.MyBatisUtil.getFactory(MyBatisUtil.java:18) MyBatisUtil.java DEBUG ¿ªÊ¼Éú³Éfactory
+2018-06-07 14:57:08 util.MyBatisUtil.getFactory(MyBatisUtil.java:20) MyBatisUtil.java DEBUG java.io.BufferedInputStream@31221be2
+2018-06-07 14:58:30 service.impl.UserDataService.<init>(UserDataService.java:22) UserDataService.java DEBUG ³õÊ¼»¯
+2018-06-07 14:58:30 util.MyBatisUtil.getFactory(MyBatisUtil.java:18) MyBatisUtil.java DEBUG ¿ªÊ¼Éú³Éfactory
+2018-06-07 14:58:30 util.MyBatisUtil.getFactory(MyBatisUtil.java:20) MyBatisUtil.java DEBUG org.apache.ibatis.session.SqlSessionFactoryBuilder@6267c3bb
+2018-06-07 14:59:36 service.impl.UserDataService.<init>(UserDataService.java:22) UserDataService.java DEBUG ³õÊ¼»¯
+2018-06-07 14:59:36 util.MyBatisUtil.getFactory(MyBatisUtil.java:18) MyBatisUtil.java DEBUG ¿ªÊ¼Éú³Éfactory
+2018-06-07 15:23:06 service.impl.UserDataService.<init>(UserDataService.java:22) UserDataService.java DEBUG ³õÊ¼»¯
+2018-06-07 15:23:06 util.MyBatisUtil.getFactory(MyBatisUtil.java:18) MyBatisUtil.java DEBUG ¿ªÊ¼Éú³Éfactory
+2018-06-07 15:31:30 service.impl.UserDataService.<init>(UserDataService.java:22) UserDataService.java DEBUG ³õÊ¼»¯
+2018-06-07 15:31:30 util.MyBatisUtil.getFactory(MyBatisUtil.java:18) MyBatisUtil.java DEBUG ¿ªÊ¼Éú³Éfactory
+2018-06-07 15:39:41 service.impl.UserDataService.<init>(UserDataService.java:22) UserDataService.java DEBUG ³õÊ¼»¯
+2018-06-07 15:39:41 util.MyBatisUtil.getFactory(MyBatisUtil.java:18) MyBatisUtil.java DEBUG ¿ªÊ¼Éú³Éfactory
+2018-06-07 15:39:42 org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-06-07 15:39:43 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 15:39:43 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 15:39:43 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 15:39:43 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 15:39:43 util.MyBatisUtil.getFactory(MyBatisUtil.java:21) MyBatisUtil.java DEBUG org.apache.ibatis.session.defaults.DefaultSqlSessionFactory@29ca901e
+2018-06-07 15:39:43 util.MyBatisUtil.getSession(MyBatisUtil.java:34) MyBatisUtil.java DEBUG Éú³Ésessionorg.apache.ibatis.session.defaults.DefaultSqlSession@31610302
+2018-06-07 15:39:43 service.impl.UserDataService.<init>(UserDataService.java:25) UserDataService.java DEBUG ³õÊ¼»¯2
+2018-06-07 15:39:43 org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:138) JdbcTransaction.java DEBUG Opening JDBC Connection
+2018-06-07 15:39:46 org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:387) PooledDataSource.java DEBUG Created connection 1661081225.
+2018-06-07 15:39:46 org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:102) JdbcTransaction.java DEBUG Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@63021689]
+2018-06-07 15:39:46 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG ==>  Preparing: select WWW, USERNAME, USERID, NAME, PWD10, PWD6, SECONDPWD, TEL, TEL1, EMAIL, EMAIL1, REGISTERDATE, PWDSAFE, NOTE, STRNUM, CARDIMAGE from MYTABLE.USERDATA where WWW = ? and USERNAME = ? 
+2018-06-07 15:39:46 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG ==> Parameters: www.hao123.com(String), jiance520(String)
+2018-06-07 15:39:47 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG <==      Total: 1
+2018-06-07 15:52:12 util.MyBatisUtil.getFactory(MyBatisUtil.java:18) MyBatisUtil.java DEBUG ¿ªÊ¼Éú³Éfactory
+2018-06-07 15:52:12 org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-06-07 15:52:12 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 15:52:12 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 15:52:12 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 15:52:12 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 15:52:13 util.MyBatisUtil.getFactory(MyBatisUtil.java:21) MyBatisUtil.java DEBUG Éú³Éfactoryorg.apache.ibatis.session.defaults.DefaultSqlSessionFactory@73846619
+2018-06-07 15:52:13 util.MyBatisUtil.getSession(MyBatisUtil.java:28) MyBatisUtil.java DEBUG ¿ªÊ¼Éú³Ésession
+2018-06-07 15:52:13 util.MyBatisUtil.getSession(MyBatisUtil.java:35) MyBatisUtil.java DEBUG Éú³Ésessionorg.apache.ibatis.session.defaults.DefaultSqlSession@31dc339b
+2018-06-07 15:52:13 org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:138) JdbcTransaction.java DEBUG Opening JDBC Connection
+2018-06-07 15:52:14 org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:387) PooledDataSource.java DEBUG Created connection 1043208434.
+2018-06-07 15:52:14 org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:102) JdbcTransaction.java DEBUG Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@3e2e18f2]
+2018-06-07 15:52:14 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG ==>  Preparing: select WWW, USERNAME, USERID, NAME, PWD10, PWD6, SECONDPWD, TEL, TEL1, EMAIL, EMAIL1, REGISTERDATE, PWDSAFE, NOTE, STRNUM, CARDIMAGE from MYTABLE.USERDATA where WWW = ? and USERNAME = ? 
+2018-06-07 15:52:14 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG ==> Parameters: www.hao123.com(String), jiance520(String)
+2018-06-07 15:52:14 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG <==      Total: 1
+2018-06-07 15:54:19 util.MyBatisUtil.getFactory(MyBatisUtil.java:18) MyBatisUtil.java DEBUG ¿ªÊ¼Éú³Éfactory
+2018-06-07 15:54:20 org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-06-07 15:54:20 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 15:54:20 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 15:54:20 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 15:54:20 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 15:54:20 util.MyBatisUtil.getFactory(MyBatisUtil.java:21) MyBatisUtil.java DEBUG Éú³Éfactoryorg.apache.ibatis.session.defaults.DefaultSqlSessionFactory@73846619
+2018-06-07 15:54:20 util.MyBatisUtil.getSession(MyBatisUtil.java:28) MyBatisUtil.java DEBUG ¿ªÊ¼Éú³Ésession
+2018-06-07 15:54:20 util.MyBatisUtil.getSession(MyBatisUtil.java:35) MyBatisUtil.java DEBUG Éú³Ésessionorg.apache.ibatis.session.defaults.DefaultSqlSession@31dc339b
+2018-06-07 15:54:20 org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:138) JdbcTransaction.java DEBUG Opening JDBC Connection
+2018-06-07 15:54:22 org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:387) PooledDataSource.java DEBUG Created connection 1043208434.
+2018-06-07 15:54:22 org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:102) JdbcTransaction.java DEBUG Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@3e2e18f2]
+2018-06-07 15:54:22 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG ==>  Preparing: select WWW, USERNAME, USERID, NAME, PWD10, PWD6, SECONDPWD, TEL, TEL1, EMAIL, EMAIL1, REGISTERDATE, PWDSAFE, NOTE, STRNUM, CARDIMAGE from MYTABLE.USERDATA where WWW = ? and USERNAME = ? 
+2018-06-07 15:54:22 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG ==> Parameters: www.hao123.com(String), jiance520(String)
+2018-06-07 15:54:22 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG <==      Total: 1
+2018-06-07 15:56:59 util.MyBatisUtil.getFactory(MyBatisUtil.java:18) MyBatisUtil.java DEBUG ¿ªÊ¼Éú³Éfactory
+2018-06-07 15:56:59 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2018-06-07 15:56:59 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Class not found: org.jboss.vfs.VFS
+2018-06-07 15:56:59 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG JBoss 6 VFS API is not available in this environment.
+2018-06-07 15:56:59 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Class not found: org.jboss.vfs.VirtualFile
+2018-06-07 15:56:59 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2018-06-07 15:56:59 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2018-06-07 15:56:59 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Find JAR URL: file:/E:/workspace/mytableweb/WebRoot/WEB-INF/classes/entity
+2018-06-07 15:56:59 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Not a JAR: file:/E:/workspace/mytableweb/WebRoot/WEB-INF/classes/entity
+2018-06-07 15:56:59 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Reader entry: CardData.class
+2018-06-07 15:56:59 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Reader entry: ModifyRecord.class
+2018-06-07 15:56:59 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Reader entry: Sys.class
+2018-06-07 15:56:59 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Reader entry: UserData.class
+2018-06-07 15:56:59 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Reader entry: UserDataMapper.class
+2018-06-07 15:56:59 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Reader entry: UserDataMapper.xml
+2018-06-07 15:56:59 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Reader entry: WwwData.class
+2018-06-07 15:56:59 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Listing file:/E:/workspace/mytableweb/WebRoot/WEB-INF/classes/entity
+2018-06-07 15:56:59 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Find JAR URL: file:/E:/workspace/mytableweb/WebRoot/WEB-INF/classes/entity/CardData.class
+2018-06-07 15:56:59 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Not a JAR: file:/E:/workspace/mytableweb/WebRoot/WEB-INF/classes/entity/CardData.class
+2018-06-07 15:56:59 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Reader entry: Êþº¾   2 H  entity/CardData  java/lang/Object  java/io/Serializable cardId Ljava/lang/String; password wwwData Ljava/util/HashMap; 	Signature 7Ljava/util/HashMap<Ljava/lang/String;Lentity/WwwData;>; <init> ()V Code
+2018-06-07 15:56:59 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Find JAR URL: file:/E:/workspace/mytableweb/WebRoot/WEB-INF/classes/entity/ModifyRecord.class
+2018-06-07 15:56:59 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Not a JAR: file:/E:/workspace/mytableweb/WebRoot/WEB-INF/classes/entity/ModifyRecord.class
+2018-06-07 15:56:59 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Reader entry: Êþº¾   2 B  entity/ModifyRecord  java/lang/Object cd Ljava/util/Calendar; recordId Ljava/lang/String; oldPwd10 oldPwd6 oldSecondPwd 
+2018-06-07 15:56:59 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Find JAR URL: file:/E:/workspace/mytableweb/WebRoot/WEB-INF/classes/entity/Sys.class
+2018-06-07 15:56:59 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Not a JAR: file:/E:/workspace/mytableweb/WebRoot/WEB-INF/classes/entity/Sys.class
+2018-06-07 15:56:59 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Reader entry: Êþº¾   2   
+2018-06-07 15:56:59 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Find JAR URL: file:/E:/workspace/mytableweb/WebRoot/WEB-INF/classes/entity/UserData.class
+2018-06-07 15:56:59 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Not a JAR: file:/E:/workspace/mytableweb/WebRoot/WEB-INF/classes/entity/UserData.class
+2018-06-07 15:56:59 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Reader entry: Êþº¾   2 i  entity/UserData  java/lang/Object www Ljava/lang/String; username userid name pwd10 pwd6 	secondpwd tel tel1 email email1 registerdate pwdsafe note strnum 	cardimage <init> ()V Code
+2018-06-07 15:56:59 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Find JAR URL: file:/E:/workspace/mytableweb/WebRoot/WEB-INF/classes/entity/UserDataMapper.class
+2018-06-07 15:56:59 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Not a JAR: file:/E:/workspace/mytableweb/WebRoot/WEB-INF/classes/entity/UserDataMapper.class
+2018-06-07 15:56:59 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Reader entry: Êþº¾   2 	  entity/UserDataMapper  java/lang/Object selectByPrimaryKey &(Ljava/util/HashMap;)Lentity/UserData; 
+2018-06-07 15:56:59 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Find JAR URL: file:/E:/workspace/mytableweb/WebRoot/WEB-INF/classes/entity/UserDataMapper.xml
+2018-06-07 15:56:59 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Not a JAR: file:/E:/workspace/mytableweb/WebRoot/WEB-INF/classes/entity/UserDataMapper.xml
+2018-06-07 15:56:59 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Reader entry: <?xml version="1.0" encoding="UTF-8" ?>
+2018-06-07 15:56:59 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Find JAR URL: file:/E:/workspace/mytableweb/WebRoot/WEB-INF/classes/entity/WwwData.class
+2018-06-07 15:56:59 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Not a JAR: file:/E:/workspace/mytableweb/WebRoot/WEB-INF/classes/entity/WwwData.class
+2018-06-07 15:56:59 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Reader entry: Êþº¾   2 ,  entity/WwwData  java/lang/Object www Ljava/lang/String; userData Ljava/util/HashMap; 	Signature 8Ljava/util/HashMap<Ljava/lang/String;Lentity/UserData;>; <init> ()V Code
+2018-06-07 15:56:59 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Checking to see if class entity.CardData matches criteria [is assignable to Object]
+2018-06-07 15:56:59 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Checking to see if class entity.ModifyRecord matches criteria [is assignable to Object]
+2018-06-07 15:56:59 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Checking to see if class entity.Sys matches criteria [is assignable to Object]
+2018-06-07 15:56:59 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Checking to see if class entity.UserData matches criteria [is assignable to Object]
+2018-06-07 15:56:59 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Checking to see if class entity.UserDataMapper matches criteria [is assignable to Object]
+2018-06-07 15:56:59 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Checking to see if class entity.WwwData matches criteria [is assignable to Object]
+2018-06-07 15:56:59 org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-06-07 15:56:59 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 15:56:59 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 15:56:59 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 15:56:59 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 15:57:00 util.MyBatisUtil.getFactory(MyBatisUtil.java:21) MyBatisUtil.java DEBUG Éú³Éfactoryorg.apache.ibatis.session.defaults.DefaultSqlSessionFactory@56235b8e
+2018-06-07 15:57:00 util.MyBatisUtil.getSession(MyBatisUtil.java:28) MyBatisUtil.java DEBUG ¿ªÊ¼Éú³Ésession
+2018-06-07 15:57:00 util.MyBatisUtil.getSession(MyBatisUtil.java:35) MyBatisUtil.java DEBUG Éú³Ésessionorg.apache.ibatis.session.defaults.DefaultSqlSession@eec5a4a
+2018-06-07 15:57:00 org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:138) JdbcTransaction.java DEBUG Opening JDBC Connection
+2018-06-07 15:57:01 org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:387) PooledDataSource.java DEBUG Created connection 501187768.
+2018-06-07 15:57:01 org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:102) JdbcTransaction.java DEBUG Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@1ddf84b8]
+2018-06-07 15:57:01 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG ==>  Preparing: select WWW, USERNAME, USERID, NAME, PWD10, PWD6, SECONDPWD, TEL, TEL1, EMAIL, EMAIL1, REGISTERDATE, PWDSAFE, NOTE, STRNUM, CARDIMAGE from MYTABLE.USERDATA where WWW = ? and USERNAME = ? 
+2018-06-07 15:57:01 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG ==> Parameters: www.hao123.com(String), jiance520(String)
+2018-06-07 15:57:01 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG <==      Total: 1
+2018-06-07 15:58:16 util.MyBatisUtil.getFactory(MyBatisUtil.java:18) MyBatisUtil.java DEBUG ¿ªÊ¼Éú³Éfactory
+2018-06-07 15:58:16 org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2018-06-07 15:58:16 org.apache.ibatis.io.VFS.getClass(VFS.java:109) VFS.java DEBUG Class not found: org.jboss.vfs.VFS
+2018-06-07 15:58:16 org.apache.ibatis.io.JBoss6VFS.setInvalid(JBoss6VFS.java:142) JBoss6VFS.java DEBUG JBoss 6 VFS API is not available in this environment.
+2018-06-07 15:58:16 org.apache.ibatis.io.VFS.getClass(VFS.java:109) VFS.java DEBUG Class not found: org.jboss.vfs.VirtualFile
+2018-06-07 15:58:16 org.apache.ibatis.io.VFS.getInstance(VFS.java:70) VFS.java DEBUG VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2018-06-07 15:58:16 org.apache.ibatis.io.VFS.getInstance(VFS.java:84) VFS.java DEBUG Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2018-06-07 15:58:16 org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:222) DefaultVFS.java DEBUG Find JAR URL: file:/E:/workspace/mytableweb/WebRoot/WEB-INF/classes/entity
+2018-06-07 15:58:16 org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:248) DefaultVFS.java DEBUG Not a JAR: file:/E:/workspace/mytableweb/WebRoot/WEB-INF/classes/entity
+2018-06-07 15:58:16 org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) DefaultVFS.java DEBUG Reader entry: CardData.class
+2018-06-07 15:58:16 org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) DefaultVFS.java DEBUG Reader entry: ModifyRecord.class
+2018-06-07 15:58:16 org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) DefaultVFS.java DEBUG Reader entry: Sys.class
+2018-06-07 15:58:16 org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) DefaultVFS.java DEBUG Reader entry: UserData.class
+2018-06-07 15:58:16 org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) DefaultVFS.java DEBUG Reader entry: UserDataMapper.class
+2018-06-07 15:58:16 org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) DefaultVFS.java DEBUG Reader entry: UserDataMapper.xml
+2018-06-07 15:58:16 org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) DefaultVFS.java DEBUG Reader entry: WwwData.class
+2018-06-07 15:58:16 org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:113) DefaultVFS.java DEBUG Listing file:/E:/workspace/mytableweb/WebRoot/WEB-INF/classes/entity
+2018-06-07 15:58:16 org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:222) DefaultVFS.java DEBUG Find JAR URL: file:/E:/workspace/mytableweb/WebRoot/WEB-INF/classes/entity/CardData.class
+2018-06-07 15:58:16 org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:248) DefaultVFS.java DEBUG Not a JAR: file:/E:/workspace/mytableweb/WebRoot/WEB-INF/classes/entity/CardData.class
+2018-06-07 15:58:16 org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) DefaultVFS.java DEBUG Reader entry: Êþº¾   2 H  entity/CardData  java/lang/Object  java/io/Serializable cardId Ljava/lang/String; password wwwData Ljava/util/HashMap; 	Signature 7Ljava/util/HashMap<Ljava/lang/String;Lentity/WwwData;>; <init> ()V Code
+2018-06-07 15:58:16 org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:222) DefaultVFS.java DEBUG Find JAR URL: file:/E:/workspace/mytableweb/WebRoot/WEB-INF/classes/entity/ModifyRecord.class
+2018-06-07 15:58:16 org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:248) DefaultVFS.java DEBUG Not a JAR: file:/E:/workspace/mytableweb/WebRoot/WEB-INF/classes/entity/ModifyRecord.class
+2018-06-07 15:58:16 org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) DefaultVFS.java DEBUG Reader entry: Êþº¾   2 B  entity/ModifyRecord  java/lang/Object cd Ljava/util/Calendar; recordId Ljava/lang/String; oldPwd10 oldPwd6 oldSecondPwd 
+2018-06-07 15:58:16 org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:222) DefaultVFS.java DEBUG Find JAR URL: file:/E:/workspace/mytableweb/WebRoot/WEB-INF/classes/entity/Sys.class
+2018-06-07 15:58:16 org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:248) DefaultVFS.java DEBUG Not a JAR: file:/E:/workspace/mytableweb/WebRoot/WEB-INF/classes/entity/Sys.class
+2018-06-07 15:58:16 org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) DefaultVFS.java DEBUG Reader entry: Êþº¾   2   
+2018-06-07 15:58:17 org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:222) DefaultVFS.java DEBUG Find JAR URL: file:/E:/workspace/mytableweb/WebRoot/WEB-INF/classes/entity/UserData.class
+2018-06-07 15:58:17 org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:248) DefaultVFS.java DEBUG Not a JAR: file:/E:/workspace/mytableweb/WebRoot/WEB-INF/classes/entity/UserData.class
+2018-06-07 15:58:17 org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) DefaultVFS.java DEBUG Reader entry: Êþº¾   2 i  entity/UserData  java/lang/Object www Ljava/lang/String; username userid name pwd10 pwd6 	secondpwd tel tel1 email email1 registerdate pwdsafe note strnum 	cardimage <init> ()V Code
+2018-06-07 15:58:17 org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:222) DefaultVFS.java DEBUG Find JAR URL: file:/E:/workspace/mytableweb/WebRoot/WEB-INF/classes/entity/UserDataMapper.class
+2018-06-07 15:58:17 org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:248) DefaultVFS.java DEBUG Not a JAR: file:/E:/workspace/mytableweb/WebRoot/WEB-INF/classes/entity/UserDataMapper.class
+2018-06-07 15:58:17 org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) DefaultVFS.java DEBUG Reader entry: Êþº¾   2 	  entity/UserDataMapper  java/lang/Object selectByPrimaryKey &(Ljava/util/HashMap;)Lentity/UserData; 
+2018-06-07 15:58:17 org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:222) DefaultVFS.java DEBUG Find JAR URL: file:/E:/workspace/mytableweb/WebRoot/WEB-INF/classes/entity/UserDataMapper.xml
+2018-06-07 15:58:17 org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:248) DefaultVFS.java DEBUG Not a JAR: file:/E:/workspace/mytableweb/WebRoot/WEB-INF/classes/entity/UserDataMapper.xml
+2018-06-07 15:58:17 org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) DefaultVFS.java DEBUG Reader entry: <?xml version="1.0" encoding="UTF-8" ?>
+2018-06-07 15:58:17 org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:222) DefaultVFS.java DEBUG Find JAR URL: file:/E:/workspace/mytableweb/WebRoot/WEB-INF/classes/entity/WwwData.class
+2018-06-07 15:58:17 org.apache.ibatis.io.DefaultVFS.findJarForResource(DefaultVFS.java:248) DefaultVFS.java DEBUG Not a JAR: file:/E:/workspace/mytableweb/WebRoot/WEB-INF/classes/entity/WwwData.class
+2018-06-07 15:58:17 org.apache.ibatis.io.DefaultVFS.list(DefaultVFS.java:102) DefaultVFS.java DEBUG Reader entry: Êþº¾   2 ,  entity/WwwData  java/lang/Object www Ljava/lang/String; userData Ljava/util/HashMap; 	Signature 8Ljava/util/HashMap<Ljava/lang/String;Lentity/UserData;>; <init> ()V Code
+2018-06-07 15:58:17 org.apache.ibatis.io.ResolverUtil.addIfMatching(ResolverUtil.java:256) ResolverUtil.java DEBUG Checking to see if class entity.CardData matches criteria [is assignable to Object]
+2018-06-07 15:58:17 org.apache.ibatis.io.ResolverUtil.addIfMatching(ResolverUtil.java:256) ResolverUtil.java DEBUG Checking to see if class entity.ModifyRecord matches criteria [is assignable to Object]
+2018-06-07 15:58:17 org.apache.ibatis.io.ResolverUtil.addIfMatching(ResolverUtil.java:256) ResolverUtil.java DEBUG Checking to see if class entity.Sys matches criteria [is assignable to Object]
+2018-06-07 15:58:17 org.apache.ibatis.io.ResolverUtil.addIfMatching(ResolverUtil.java:256) ResolverUtil.java DEBUG Checking to see if class entity.UserData matches criteria [is assignable to Object]
+2018-06-07 15:58:17 org.apache.ibatis.io.ResolverUtil.addIfMatching(ResolverUtil.java:256) ResolverUtil.java DEBUG Checking to see if class entity.UserDataMapper matches criteria [is assignable to Object]
+2018-06-07 15:58:17 org.apache.ibatis.io.ResolverUtil.addIfMatching(ResolverUtil.java:256) ResolverUtil.java DEBUG Checking to see if class entity.WwwData matches criteria [is assignable to Object]
+2018-06-07 15:58:17 org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-06-07 15:58:17 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 15:58:17 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 15:58:17 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 15:58:17 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 15:58:17 util.MyBatisUtil.getFactory(MyBatisUtil.java:21) MyBatisUtil.java DEBUG Éú³Éfactoryorg.apache.ibatis.session.defaults.DefaultSqlSessionFactory@52a86356
+2018-06-07 15:58:17 util.MyBatisUtil.getSession(MyBatisUtil.java:28) MyBatisUtil.java DEBUG ¿ªÊ¼Éú³Ésession
+2018-06-07 15:58:17 util.MyBatisUtil.getSession(MyBatisUtil.java:35) MyBatisUtil.java DEBUG Éú³Ésessionorg.apache.ibatis.session.defaults.DefaultSqlSession@6536e911
+2018-06-07 15:58:17 org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:138) JdbcTransaction.java DEBUG Opening JDBC Connection
+2018-06-07 15:58:19 org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:387) PooledDataSource.java DEBUG Created connection 154482552.
+2018-06-07 15:58:19 org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:102) JdbcTransaction.java DEBUG Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@9353778]
+2018-06-07 15:58:19 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG ==>  Preparing: select WWW, USERNAME, USERID, NAME, PWD10, PWD6, SECONDPWD, TEL, TEL1, EMAIL, EMAIL1, REGISTERDATE, PWDSAFE, NOTE, STRNUM, CARDIMAGE from MYTABLE.USERDATA where WWW = ? and USERNAME = ? 
+2018-06-07 15:58:19 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG ==> Parameters: www.hao123.com(String), jiance520(String)
+2018-06-07 15:58:19 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG <==      Total: 1
+2018-06-07 15:58:53 util.MyBatisUtil.getFactory(MyBatisUtil.java:18) MyBatisUtil.java DEBUG ¿ªÊ¼Éú³Éfactory
+2018-06-07 15:58:53 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl' adapter.
+2018-06-07 15:58:54 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Class not found: org.jboss.vfs.VFS
+2018-06-07 15:58:54 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG JBoss 6 VFS API is not available in this environment.
+2018-06-07 15:58:54 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Class not found: org.jboss.vfs.VirtualFile
+2018-06-07 15:58:54 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2018-06-07 15:58:54 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2018-06-07 15:58:54 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Find JAR URL: file:/E:/workspace/mytableweb/WebRoot/WEB-INF/classes/entity
+2018-06-07 15:58:54 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Not a JAR: file:/E:/workspace/mytableweb/WebRoot/WEB-INF/classes/entity
+2018-06-07 15:58:54 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Reader entry: CardData.class
+2018-06-07 15:58:54 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Reader entry: ModifyRecord.class
+2018-06-07 15:58:54 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Reader entry: Sys.class
+2018-06-07 15:58:54 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Reader entry: UserData.class
+2018-06-07 15:58:54 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Reader entry: UserDataMapper.class
+2018-06-07 15:58:54 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Reader entry: UserDataMapper.xml
+2018-06-07 15:58:54 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Reader entry: WwwData.class
+2018-06-07 15:58:54 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Listing file:/E:/workspace/mytableweb/WebRoot/WEB-INF/classes/entity
+2018-06-07 15:58:54 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Find JAR URL: file:/E:/workspace/mytableweb/WebRoot/WEB-INF/classes/entity/CardData.class
+2018-06-07 15:58:54 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Not a JAR: file:/E:/workspace/mytableweb/WebRoot/WEB-INF/classes/entity/CardData.class
+2018-06-07 15:58:54 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Reader entry: Êþº¾   2 H  entity/CardData  java/lang/Object  java/io/Serializable cardId Ljava/lang/String; password wwwData Ljava/util/HashMap; 	Signature 7Ljava/util/HashMap<Ljava/lang/String;Lentity/WwwData;>; <init> ()V Code
+2018-06-07 15:58:54 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Find JAR URL: file:/E:/workspace/mytableweb/WebRoot/WEB-INF/classes/entity/ModifyRecord.class
+2018-06-07 15:58:54 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Not a JAR: file:/E:/workspace/mytableweb/WebRoot/WEB-INF/classes/entity/ModifyRecord.class
+2018-06-07 15:58:54 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Reader entry: Êþº¾   2 B  entity/ModifyRecord  java/lang/Object cd Ljava/util/Calendar; recordId Ljava/lang/String; oldPwd10 oldPwd6 oldSecondPwd 
+2018-06-07 15:58:54 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Find JAR URL: file:/E:/workspace/mytableweb/WebRoot/WEB-INF/classes/entity/Sys.class
+2018-06-07 15:58:54 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Not a JAR: file:/E:/workspace/mytableweb/WebRoot/WEB-INF/classes/entity/Sys.class
+2018-06-07 15:58:54 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Reader entry: Êþº¾   2   
+2018-06-07 15:58:54 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Find JAR URL: file:/E:/workspace/mytableweb/WebRoot/WEB-INF/classes/entity/UserData.class
+2018-06-07 15:58:54 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Not a JAR: file:/E:/workspace/mytableweb/WebRoot/WEB-INF/classes/entity/UserData.class
+2018-06-07 15:58:54 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Reader entry: Êþº¾   2 i  entity/UserData  java/lang/Object www Ljava/lang/String; username userid name pwd10 pwd6 	secondpwd tel tel1 email email1 registerdate pwdsafe note strnum 	cardimage <init> ()V Code
+2018-06-07 15:58:54 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Find JAR URL: file:/E:/workspace/mytableweb/WebRoot/WEB-INF/classes/entity/UserDataMapper.class
+2018-06-07 15:58:54 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Not a JAR: file:/E:/workspace/mytableweb/WebRoot/WEB-INF/classes/entity/UserDataMapper.class
+2018-06-07 15:58:54 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Reader entry: Êþº¾   2 	  entity/UserDataMapper  java/lang/Object selectByPrimaryKey &(Ljava/util/HashMap;)Lentity/UserData; 
+2018-06-07 15:58:54 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Find JAR URL: file:/E:/workspace/mytableweb/WebRoot/WEB-INF/classes/entity/UserDataMapper.xml
+2018-06-07 15:58:54 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Not a JAR: file:/E:/workspace/mytableweb/WebRoot/WEB-INF/classes/entity/UserDataMapper.xml
+2018-06-07 15:58:54 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Reader entry: <?xml version="1.0" encoding="UTF-8" ?>
+2018-06-07 15:58:54 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Find JAR URL: file:/E:/workspace/mytableweb/WebRoot/WEB-INF/classes/entity/WwwData.class
+2018-06-07 15:58:54 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Not a JAR: file:/E:/workspace/mytableweb/WebRoot/WEB-INF/classes/entity/WwwData.class
+2018-06-07 15:58:54 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Reader entry: Êþº¾   2 ,  entity/WwwData  java/lang/Object www Ljava/lang/String; userData Ljava/util/HashMap; 	Signature 8Ljava/util/HashMap<Ljava/lang/String;Lentity/UserData;>; <init> ()V Code
+2018-06-07 15:58:54 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Checking to see if class entity.CardData matches criteria [is assignable to Object]
+2018-06-07 15:58:54 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Checking to see if class entity.ModifyRecord matches criteria [is assignable to Object]
+2018-06-07 15:58:54 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Checking to see if class entity.Sys matches criteria [is assignable to Object]
+2018-06-07 15:58:54 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Checking to see if class entity.UserData matches criteria [is assignable to Object]
+2018-06-07 15:58:54 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Checking to see if class entity.UserDataMapper matches criteria [is assignable to Object]
+2018-06-07 15:58:54 org.apache.ibatis.logging.commons.JakartaCommonsLoggingImpl.debug(JakartaCommonsLoggingImpl.java:54) JakartaCommonsLoggingImpl.java DEBUG Checking to see if class entity.WwwData matches criteria [is assignable to Object]
+2018-06-07 15:58:54 org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-06-07 15:58:54 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 15:58:54 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 15:58:54 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 15:58:54 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 15:58:54 util.MyBatisUtil.getFactory(MyBatisUtil.java:21) MyBatisUtil.java DEBUG Éú³Éfactoryorg.apache.ibatis.session.defaults.DefaultSqlSessionFactory@56235b8e
+2018-06-07 15:58:54 util.MyBatisUtil.getSession(MyBatisUtil.java:28) MyBatisUtil.java DEBUG ¿ªÊ¼Éú³Ésession
+2018-06-07 15:58:54 util.MyBatisUtil.getSession(MyBatisUtil.java:35) MyBatisUtil.java DEBUG Éú³Ésessionorg.apache.ibatis.session.defaults.DefaultSqlSession@eec5a4a
+2018-06-07 15:58:54 org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:138) JdbcTransaction.java DEBUG Opening JDBC Connection
+2018-06-07 15:58:56 org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:387) PooledDataSource.java DEBUG Created connection 501187768.
+2018-06-07 15:58:56 org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:102) JdbcTransaction.java DEBUG Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@1ddf84b8]
+2018-06-07 15:58:56 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG ==>  Preparing: select WWW, USERNAME, USERID, NAME, PWD10, PWD6, SECONDPWD, TEL, TEL1, EMAIL, EMAIL1, REGISTERDATE, PWDSAFE, NOTE, STRNUM, CARDIMAGE from MYTABLE.USERDATA where WWW = ? and USERNAME = ? 
+2018-06-07 15:58:56 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG ==> Parameters: www.hao123.com(String), jiance520(String)
+2018-06-07 15:58:56 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG <==      Total: 1
+2018-06-07 15:59:13 util.MyBatisUtil.getFactory(MyBatisUtil.java:18) MyBatisUtil.java DEBUG ¿ªÊ¼Éú³Éfactory
+2018-06-07 15:59:13 org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-06-07 15:59:13 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 15:59:13 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 15:59:13 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 15:59:13 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 15:59:13 util.MyBatisUtil.getFactory(MyBatisUtil.java:21) MyBatisUtil.java DEBUG Éú³Éfactoryorg.apache.ibatis.session.defaults.DefaultSqlSessionFactory@73846619
+2018-06-07 15:59:13 util.MyBatisUtil.getSession(MyBatisUtil.java:28) MyBatisUtil.java DEBUG ¿ªÊ¼Éú³Ésession
+2018-06-07 15:59:13 util.MyBatisUtil.getSession(MyBatisUtil.java:35) MyBatisUtil.java DEBUG Éú³Ésessionorg.apache.ibatis.session.defaults.DefaultSqlSession@31dc339b
+2018-06-07 15:59:13 org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:138) JdbcTransaction.java DEBUG Opening JDBC Connection
+2018-06-07 15:59:15 org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:387) PooledDataSource.java DEBUG Created connection 1043208434.
+2018-06-07 15:59:15 org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:102) JdbcTransaction.java DEBUG Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@3e2e18f2]
+2018-06-07 15:59:15 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG ==>  Preparing: select WWW, USERNAME, USERID, NAME, PWD10, PWD6, SECONDPWD, TEL, TEL1, EMAIL, EMAIL1, REGISTERDATE, PWDSAFE, NOTE, STRNUM, CARDIMAGE from MYTABLE.USERDATA where WWW = ? and USERNAME = ? 
+2018-06-07 15:59:15 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG ==> Parameters: www.hao123.com(String), jiance520(String)
+2018-06-07 15:59:15 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG <==      Total: 1
+2018-06-07 20:32:09 util.MyBatisUtil.getFactory(MyBatisUtil.java:18) MyBatisUtil.java DEBUG ¿ªÊ¼Éú³Éfactory
+2018-06-07 20:32:10 org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-06-07 20:32:10 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 20:32:10 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 20:32:10 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 20:32:10 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 20:32:10 util.MyBatisUtil.getFactory(MyBatisUtil.java:21) MyBatisUtil.java DEBUG Éú³Éfactoryorg.apache.ibatis.session.defaults.DefaultSqlSessionFactory@192b07fd
+2018-06-07 20:32:10 util.MyBatisUtil.getSession(MyBatisUtil.java:28) MyBatisUtil.java DEBUG ¿ªÊ¼Éú³Ésession
+2018-06-07 20:32:10 util.MyBatisUtil.getSession(MyBatisUtil.java:35) MyBatisUtil.java DEBUG Éú³Ésessionorg.apache.ibatis.session.defaults.DefaultSqlSession@52a86356
+2018-06-07 20:32:10 org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:138) JdbcTransaction.java DEBUG Opening JDBC Connection
+2018-06-07 20:32:12 org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:387) PooledDataSource.java DEBUG Created connection 118394766.
+2018-06-07 20:32:12 org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:102) JdbcTransaction.java DEBUG Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@70e8f8e]
+2018-06-07 20:32:12 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG ==>  Preparing: select test_seq from dual 
+2018-06-07 20:32:12 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG ==> Parameters: 
+2018-06-07 20:37:18 util.MyBatisUtil.getFactory(MyBatisUtil.java:18) MyBatisUtil.java DEBUG ¿ªÊ¼Éú³Éfactory
+2018-06-07 20:37:19 org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-06-07 20:37:19 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 20:37:19 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 20:37:19 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 20:37:19 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 20:37:19 util.MyBatisUtil.getFactory(MyBatisUtil.java:21) MyBatisUtil.java DEBUG Éú³Éfactoryorg.apache.ibatis.session.defaults.DefaultSqlSessionFactory@192b07fd
+2018-06-07 20:37:19 util.MyBatisUtil.getSession(MyBatisUtil.java:28) MyBatisUtil.java DEBUG ¿ªÊ¼Éú³Ésession
+2018-06-07 20:37:19 util.MyBatisUtil.getSession(MyBatisUtil.java:35) MyBatisUtil.java DEBUG Éú³Ésessionorg.apache.ibatis.session.defaults.DefaultSqlSession@52a86356
+2018-06-07 20:37:19 org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:138) JdbcTransaction.java DEBUG Opening JDBC Connection
+2018-06-07 20:37:21 org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:387) PooledDataSource.java DEBUG Created connection 118394766.
+2018-06-07 20:37:21 org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:102) JdbcTransaction.java DEBUG Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@70e8f8e]
+2018-06-07 20:37:21 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG ==>  Preparing: select test_seq from dual 
+2018-06-07 20:37:21 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG ==> Parameters: 
+2018-06-07 20:46:20 util.MyBatisUtil.getFactory(MyBatisUtil.java:18) MyBatisUtil.java DEBUG ¿ªÊ¼Éú³Éfactory
+2018-06-07 20:46:21 org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-06-07 20:46:21 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 20:46:21 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 20:46:21 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 20:46:21 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 20:46:21 util.MyBatisUtil.getFactory(MyBatisUtil.java:21) MyBatisUtil.java DEBUG Éú³Éfactoryorg.apache.ibatis.session.defaults.DefaultSqlSessionFactory@192b07fd
+2018-06-07 20:46:21 util.MyBatisUtil.getSession(MyBatisUtil.java:28) MyBatisUtil.java DEBUG ¿ªÊ¼Éú³Ésession
+2018-06-07 20:46:21 util.MyBatisUtil.getSession(MyBatisUtil.java:35) MyBatisUtil.java DEBUG Éú³Ésessionorg.apache.ibatis.session.defaults.DefaultSqlSession@52a86356
+2018-06-07 20:46:22 org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:138) JdbcTransaction.java DEBUG Opening JDBC Connection
+2018-06-07 20:46:23 org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:387) PooledDataSource.java DEBUG Created connection 118394766.
+2018-06-07 20:46:23 org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:102) JdbcTransaction.java DEBUG Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@70e8f8e]
+2018-06-07 20:46:23 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG ==>  Preparing: select test_seq.nextval from dual 
+2018-06-07 20:46:23 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG ==> Parameters: 
+2018-06-07 20:46:23 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG <==      Total: 1
+2018-06-07 20:51:18 util.MyBatisUtil.getFactory(MyBatisUtil.java:18) MyBatisUtil.java DEBUG ¿ªÊ¼Éú³Éfactory
+2018-06-07 20:51:18 org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-06-07 20:51:18 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 20:51:18 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 20:51:18 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 20:51:18 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 20:51:19 util.MyBatisUtil.getFactory(MyBatisUtil.java:21) MyBatisUtil.java DEBUG Éú³Éfactoryorg.apache.ibatis.session.defaults.DefaultSqlSessionFactory@192b07fd
+2018-06-07 20:51:19 util.MyBatisUtil.getSession(MyBatisUtil.java:28) MyBatisUtil.java DEBUG ¿ªÊ¼Éú³Ésession
+2018-06-07 20:51:19 util.MyBatisUtil.getSession(MyBatisUtil.java:35) MyBatisUtil.java DEBUG Éú³Ésessionorg.apache.ibatis.session.defaults.DefaultSqlSession@52a86356
+2018-06-07 20:51:19 org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:138) JdbcTransaction.java DEBUG Opening JDBC Connection
+2018-06-07 20:51:20 org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:387) PooledDataSource.java DEBUG Created connection 118394766.
+2018-06-07 20:51:20 org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:102) JdbcTransaction.java DEBUG Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@70e8f8e]
+2018-06-07 20:51:20 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG ==>  Preparing: select test_seq.nextval from dual 
+2018-06-07 20:51:21 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG ==> Parameters: 
+2018-06-07 20:51:21 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG <==      Total: 1
+2018-06-07 20:54:55 util.MyBatisUtil.getFactory(MyBatisUtil.java:18) MyBatisUtil.java DEBUG ¿ªÊ¼Éú³Éfactory
+2018-06-07 20:54:55 org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-06-07 20:54:56 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 20:54:56 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 20:54:56 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 20:54:56 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 20:54:56 util.MyBatisUtil.getFactory(MyBatisUtil.java:21) MyBatisUtil.java DEBUG Éú³Éfactoryorg.apache.ibatis.session.defaults.DefaultSqlSessionFactory@5025a98f
+2018-06-07 20:54:56 util.MyBatisUtil.getSession(MyBatisUtil.java:28) MyBatisUtil.java DEBUG ¿ªÊ¼Éú³Ésession
+2018-06-07 20:54:56 util.MyBatisUtil.getSession(MyBatisUtil.java:35) MyBatisUtil.java DEBUG Éú³Ésessionorg.apache.ibatis.session.defaults.DefaultSqlSession@4e1d422d
+2018-06-07 20:54:56 org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:138) JdbcTransaction.java DEBUG Opening JDBC Connection
+2018-06-07 20:54:58 org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:387) PooledDataSource.java DEBUG Created connection 1043208434.
+2018-06-07 20:54:58 org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:102) JdbcTransaction.java DEBUG Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@3e2e18f2]
+2018-06-07 20:54:58 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG ==>  Preparing: insert into MYTABLE.TEST (ID, NAME) values(?,?) 
+2018-06-07 20:54:58 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG ==> Parameters: 5(Long), Ð¡Ã÷(String)
+2018-06-07 20:54:58 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG <==    Updates: 1
+2018-06-07 20:54:58 org.apache.ibatis.transaction.jdbc.JdbcTransaction.commit(JdbcTransaction.java:71) JdbcTransaction.java DEBUG Committing JDBC Connection [oracle.jdbc.driver.T4CConnection@3e2e18f2]
+2018-06-07 20:58:38 util.MyBatisUtil.getFactory(MyBatisUtil.java:18) MyBatisUtil.java DEBUG ¿ªÊ¼Éú³Éfactory
+2018-06-07 20:58:39 org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-06-07 20:58:39 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 20:58:39 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 20:58:39 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 20:58:39 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 20:58:39 util.MyBatisUtil.getFactory(MyBatisUtil.java:21) MyBatisUtil.java DEBUG Éú³Éfactoryorg.apache.ibatis.session.defaults.DefaultSqlSessionFactory@192b07fd
+2018-06-07 20:58:39 util.MyBatisUtil.getSession(MyBatisUtil.java:28) MyBatisUtil.java DEBUG ¿ªÊ¼Éú³Ésession
+2018-06-07 20:58:39 util.MyBatisUtil.getSession(MyBatisUtil.java:35) MyBatisUtil.java DEBUG Éú³Ésessionorg.apache.ibatis.session.defaults.DefaultSqlSession@52a86356
+2018-06-07 20:58:39 org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:138) JdbcTransaction.java DEBUG Opening JDBC Connection
+2018-06-07 20:58:41 org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:387) PooledDataSource.java DEBUG Created connection 118394766.
+2018-06-07 20:58:41 org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:102) JdbcTransaction.java DEBUG Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@70e8f8e]
+2018-06-07 20:58:41 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG ==>  Preparing: select test_seq.nextval as id from dual 
+2018-06-07 20:58:41 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG ==> Parameters: 
+2018-06-07 20:58:41 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG <==      Total: 1
+2018-06-07 21:23:23 util.MyBatisUtil.getFactory(MyBatisUtil.java:18) MyBatisUtil.java DEBUG ¿ªÊ¼Éú³Éfactory
+2018-06-07 21:23:23 org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-06-07 21:23:24 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 21:23:24 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 21:23:24 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 21:23:24 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 21:23:24 util.MyBatisUtil.getFactory(MyBatisUtil.java:21) MyBatisUtil.java DEBUG Éú³Éfactoryorg.apache.ibatis.session.defaults.DefaultSqlSessionFactory@192b07fd
+2018-06-07 21:23:24 util.MyBatisUtil.getSession(MyBatisUtil.java:28) MyBatisUtil.java DEBUG ¿ªÊ¼Éú³Ésession
+2018-06-07 21:23:24 util.MyBatisUtil.getSession(MyBatisUtil.java:35) MyBatisUtil.java DEBUG Éú³Ésessionorg.apache.ibatis.session.defaults.DefaultSqlSession@52a86356
+2018-06-07 21:23:24 org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:138) JdbcTransaction.java DEBUG Opening JDBC Connection
+2018-06-07 21:23:26 org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:387) PooledDataSource.java DEBUG Created connection 118394766.
+2018-06-07 21:23:26 org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:102) JdbcTransaction.java DEBUG Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@70e8f8e]
+2018-06-07 21:23:26 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG ==>  Preparing: select test_seq.nextval as id from dual 
+2018-06-07 21:23:26 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG ==> Parameters: 
+2018-06-07 21:23:26 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG <==      Total: 1
+2018-06-07 21:34:12 util.MyBatisUtil.getFactory(MyBatisUtil.java:18) MyBatisUtil.java DEBUG ¿ªÊ¼Éú³Éfactory
+2018-06-07 21:34:13 org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-06-07 21:34:13 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 21:34:13 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 21:34:13 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 21:34:13 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 21:34:13 util.MyBatisUtil.getFactory(MyBatisUtil.java:21) MyBatisUtil.java DEBUG Éú³Éfactoryorg.apache.ibatis.session.defaults.DefaultSqlSessionFactory@192b07fd
+2018-06-07 21:34:13 util.MyBatisUtil.getSession(MyBatisUtil.java:28) MyBatisUtil.java DEBUG ¿ªÊ¼Éú³Ésession
+2018-06-07 21:34:13 util.MyBatisUtil.getSession(MyBatisUtil.java:35) MyBatisUtil.java DEBUG Éú³Ésessionorg.apache.ibatis.session.defaults.DefaultSqlSession@52a86356
+2018-06-07 21:34:13 org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:138) JdbcTransaction.java DEBUG Opening JDBC Connection
+2018-06-07 21:34:15 org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:387) PooledDataSource.java DEBUG Created connection 118394766.
+2018-06-07 21:34:15 org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:102) JdbcTransaction.java DEBUG Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@70e8f8e]
+2018-06-07 21:34:15 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG ==>  Preparing: select cast(test_seq.nextval as number(10)) from dual 
+2018-06-07 21:34:15 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG ==> Parameters: 
+2018-06-07 21:34:15 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG <==      Total: 1
+2018-06-07 21:36:19 util.MyBatisUtil.getFactory(MyBatisUtil.java:18) MyBatisUtil.java DEBUG ¿ªÊ¼Éú³Éfactory
+2018-06-07 21:36:20 org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-06-07 21:36:20 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 21:36:20 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 21:36:20 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 21:36:20 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 21:36:20 util.MyBatisUtil.getFactory(MyBatisUtil.java:21) MyBatisUtil.java DEBUG Éú³Éfactoryorg.apache.ibatis.session.defaults.DefaultSqlSessionFactory@192b07fd
+2018-06-07 21:36:20 util.MyBatisUtil.getSession(MyBatisUtil.java:28) MyBatisUtil.java DEBUG ¿ªÊ¼Éú³Ésession
+2018-06-07 21:36:20 util.MyBatisUtil.getSession(MyBatisUtil.java:35) MyBatisUtil.java DEBUG Éú³Ésessionorg.apache.ibatis.session.defaults.DefaultSqlSession@52a86356
+2018-06-07 21:36:20 org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:138) JdbcTransaction.java DEBUG Opening JDBC Connection
+2018-06-07 21:36:22 org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:387) PooledDataSource.java DEBUG Created connection 118394766.
+2018-06-07 21:36:22 org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:102) JdbcTransaction.java DEBUG Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@70e8f8e]
+2018-06-07 21:36:22 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG ==>  Preparing: select cast(test_seq.nextval as DECIMAL) from dual 
+2018-06-07 21:36:22 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG ==> Parameters: 
+2018-06-07 21:36:23 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG <==      Total: 1
+2018-06-07 21:38:19 util.MyBatisUtil.getFactory(MyBatisUtil.java:18) MyBatisUtil.java DEBUG ¿ªÊ¼Éú³Éfactory
+2018-06-07 21:38:20 org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-06-07 21:38:20 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 21:38:20 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 21:38:20 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 21:38:20 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 21:38:20 util.MyBatisUtil.getFactory(MyBatisUtil.java:21) MyBatisUtil.java DEBUG Éú³Éfactoryorg.apache.ibatis.session.defaults.DefaultSqlSessionFactory@192b07fd
+2018-06-07 21:38:20 util.MyBatisUtil.getSession(MyBatisUtil.java:28) MyBatisUtil.java DEBUG ¿ªÊ¼Éú³Ésession
+2018-06-07 21:38:20 util.MyBatisUtil.getSession(MyBatisUtil.java:35) MyBatisUtil.java DEBUG Éú³Ésessionorg.apache.ibatis.session.defaults.DefaultSqlSession@52a86356
+2018-06-07 21:38:20 org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:138) JdbcTransaction.java DEBUG Opening JDBC Connection
+2018-06-07 21:38:22 org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:387) PooledDataSource.java DEBUG Created connection 118394766.
+2018-06-07 21:38:22 org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:102) JdbcTransaction.java DEBUG Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@70e8f8e]
+2018-06-07 21:38:22 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG ==>  Preparing: select test_seq.nextval from dual 
+2018-06-07 21:38:22 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG ==> Parameters: 
+2018-06-07 21:38:22 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG <==      Total: 1
+2018-06-07 21:44:09 util.MyBatisUtil.getFactory(MyBatisUtil.java:18) MyBatisUtil.java DEBUG ¿ªÊ¼Éú³Éfactory
+2018-06-07 21:44:09 org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-06-07 21:44:10 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 21:44:10 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 21:44:10 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 21:44:10 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 21:44:10 util.MyBatisUtil.getFactory(MyBatisUtil.java:21) MyBatisUtil.java DEBUG Éú³Éfactoryorg.apache.ibatis.session.defaults.DefaultSqlSessionFactory@192b07fd
+2018-06-07 21:44:10 util.MyBatisUtil.getSession(MyBatisUtil.java:28) MyBatisUtil.java DEBUG ¿ªÊ¼Éú³Ésession
+2018-06-07 21:44:10 util.MyBatisUtil.getSession(MyBatisUtil.java:35) MyBatisUtil.java DEBUG Éú³Ésessionorg.apache.ibatis.session.defaults.DefaultSqlSession@52a86356
+2018-06-07 21:44:10 org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:138) JdbcTransaction.java DEBUG Opening JDBC Connection
+2018-06-07 21:44:12 org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:387) PooledDataSource.java DEBUG Created connection 118394766.
+2018-06-07 21:44:12 org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:102) JdbcTransaction.java DEBUG Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@70e8f8e]
+2018-06-07 21:44:12 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG ==>  Preparing: select cast(test_seq.nextval as DECIMAL) from dual 
+2018-06-07 21:44:12 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG ==> Parameters: 
+2018-06-07 21:44:12 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG <==      Total: 1
+2018-06-07 21:44:46 util.MyBatisUtil.getFactory(MyBatisUtil.java:18) MyBatisUtil.java DEBUG ¿ªÊ¼Éú³Éfactory
+2018-06-07 21:44:47 org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-06-07 21:44:47 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 21:44:47 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 21:44:47 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 21:44:47 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 21:44:47 util.MyBatisUtil.getFactory(MyBatisUtil.java:21) MyBatisUtil.java DEBUG Éú³Éfactoryorg.apache.ibatis.session.defaults.DefaultSqlSessionFactory@192b07fd
+2018-06-07 21:44:47 util.MyBatisUtil.getSession(MyBatisUtil.java:28) MyBatisUtil.java DEBUG ¿ªÊ¼Éú³Ésession
+2018-06-07 21:44:47 util.MyBatisUtil.getSession(MyBatisUtil.java:35) MyBatisUtil.java DEBUG Éú³Ésessionorg.apache.ibatis.session.defaults.DefaultSqlSession@52a86356
+2018-06-07 21:44:47 org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:138) JdbcTransaction.java DEBUG Opening JDBC Connection
+2018-06-07 21:44:49 org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:387) PooledDataSource.java DEBUG Created connection 118394766.
+2018-06-07 21:44:49 org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:102) JdbcTransaction.java DEBUG Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@70e8f8e]
+2018-06-07 21:44:49 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG ==>  Preparing: select test_seq.nextval from dual 
+2018-06-07 21:44:49 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG ==> Parameters: 
+2018-06-07 21:44:49 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG <==      Total: 1
+2018-06-07 21:45:31 util.MyBatisUtil.getFactory(MyBatisUtil.java:18) MyBatisUtil.java DEBUG ¿ªÊ¼Éú³Éfactory
+2018-06-07 21:45:31 org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-06-07 21:45:32 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 21:45:32 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 21:45:32 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 21:45:32 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 21:45:32 util.MyBatisUtil.getFactory(MyBatisUtil.java:21) MyBatisUtil.java DEBUG Éú³Éfactoryorg.apache.ibatis.session.defaults.DefaultSqlSessionFactory@5025a98f
+2018-06-07 21:45:32 util.MyBatisUtil.getSession(MyBatisUtil.java:28) MyBatisUtil.java DEBUG ¿ªÊ¼Éú³Ésession
+2018-06-07 21:45:32 util.MyBatisUtil.getSession(MyBatisUtil.java:35) MyBatisUtil.java DEBUG Éú³Ésessionorg.apache.ibatis.session.defaults.DefaultSqlSession@4e1d422d
+2018-06-07 21:45:32 org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:138) JdbcTransaction.java DEBUG Opening JDBC Connection
+2018-06-07 21:45:34 org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:387) PooledDataSource.java DEBUG Created connection 1043208434.
+2018-06-07 21:45:34 org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:102) JdbcTransaction.java DEBUG Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@3e2e18f2]
+2018-06-07 21:45:34 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG ==>  Preparing: insert into MYTABLE.TEST (id, NAME) values(?,?) 
+2018-06-07 21:45:34 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG ==> Parameters: null, Ð¡Ã÷(String)
+2018-06-07 21:51:07 util.MyBatisUtil.getFactory(MyBatisUtil.java:18) MyBatisUtil.java DEBUG ¿ªÊ¼Éú³Éfactory
+2018-06-07 21:51:07 org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-06-07 21:51:08 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 21:51:08 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 21:51:08 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 21:51:08 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 21:51:08 util.MyBatisUtil.getFactory(MyBatisUtil.java:21) MyBatisUtil.java DEBUG Éú³Éfactoryorg.apache.ibatis.session.defaults.DefaultSqlSessionFactory@192b07fd
+2018-06-07 21:51:08 util.MyBatisUtil.getSession(MyBatisUtil.java:28) MyBatisUtil.java DEBUG ¿ªÊ¼Éú³Ésession
+2018-06-07 21:51:08 util.MyBatisUtil.getSession(MyBatisUtil.java:35) MyBatisUtil.java DEBUG Éú³Ésessionorg.apache.ibatis.session.defaults.DefaultSqlSession@52a86356
+2018-06-07 21:51:08 org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:138) JdbcTransaction.java DEBUG Opening JDBC Connection
+2018-06-07 21:51:10 org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:387) PooledDataSource.java DEBUG Created connection 118394766.
+2018-06-07 21:51:10 org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:102) JdbcTransaction.java DEBUG Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@70e8f8e]
+2018-06-07 21:51:10 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG ==>  Preparing: select test_seq.nextval as id from dual 
+2018-06-07 21:51:10 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG ==> Parameters: 
+2018-06-07 21:51:10 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG <==      Total: 1
+2018-06-07 21:51:34 util.MyBatisUtil.getFactory(MyBatisUtil.java:18) MyBatisUtil.java DEBUG ¿ªÊ¼Éú³Éfactory
+2018-06-07 21:51:34 org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-06-07 21:51:35 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 21:51:35 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 21:51:35 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 21:51:35 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 21:51:35 util.MyBatisUtil.getFactory(MyBatisUtil.java:21) MyBatisUtil.java DEBUG Éú³Éfactoryorg.apache.ibatis.session.defaults.DefaultSqlSessionFactory@192b07fd
+2018-06-07 21:51:35 util.MyBatisUtil.getSession(MyBatisUtil.java:28) MyBatisUtil.java DEBUG ¿ªÊ¼Éú³Ésession
+2018-06-07 21:51:35 util.MyBatisUtil.getSession(MyBatisUtil.java:35) MyBatisUtil.java DEBUG Éú³Ésessionorg.apache.ibatis.session.defaults.DefaultSqlSession@52a86356
+2018-06-07 21:51:35 org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:138) JdbcTransaction.java DEBUG Opening JDBC Connection
+2018-06-07 21:51:37 org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:387) PooledDataSource.java DEBUG Created connection 118394766.
+2018-06-07 21:51:37 org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:102) JdbcTransaction.java DEBUG Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@70e8f8e]
+2018-06-07 21:51:37 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG ==>  Preparing: select test_seq.nextval as id from dual 
+2018-06-07 21:51:37 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG ==> Parameters: 
+2018-06-07 21:51:37 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG <==      Total: 1
+2018-06-07 21:51:37 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG ==>  Preparing: insert into MYTABLE.TEST (id, NAME) values(?,?) 
+2018-06-07 21:51:37 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG ==> Parameters: 14(Long), Ð¡Ã÷(String)
+2018-06-07 21:51:37 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG <==    Updates: 1
+2018-06-07 21:51:37 org.apache.ibatis.transaction.jdbc.JdbcTransaction.commit(JdbcTransaction.java:71) JdbcTransaction.java DEBUG Committing JDBC Connection [oracle.jdbc.driver.T4CConnection@70e8f8e]
+2018-06-07 21:52:15 util.MyBatisUtil.getFactory(MyBatisUtil.java:18) MyBatisUtil.java DEBUG ¿ªÊ¼Éú³Éfactory
+2018-06-07 21:52:16 org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-06-07 21:52:16 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 21:52:16 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 21:52:16 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 21:52:16 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 21:52:16 util.MyBatisUtil.getFactory(MyBatisUtil.java:21) MyBatisUtil.java DEBUG Éú³Éfactoryorg.apache.ibatis.session.defaults.DefaultSqlSessionFactory@192b07fd
+2018-06-07 21:52:16 util.MyBatisUtil.getSession(MyBatisUtil.java:28) MyBatisUtil.java DEBUG ¿ªÊ¼Éú³Ésession
+2018-06-07 21:52:16 util.MyBatisUtil.getSession(MyBatisUtil.java:35) MyBatisUtil.java DEBUG Éú³Ésessionorg.apache.ibatis.session.defaults.DefaultSqlSession@52a86356
+2018-06-07 21:52:16 org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:138) JdbcTransaction.java DEBUG Opening JDBC Connection
+2018-06-07 21:52:18 org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:387) PooledDataSource.java DEBUG Created connection 118394766.
+2018-06-07 21:52:18 org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:102) JdbcTransaction.java DEBUG Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@70e8f8e]
+2018-06-07 21:52:18 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG ==>  Preparing: select test_seq.nextval as id from dual 
+2018-06-07 21:52:18 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG ==> Parameters: 
+2018-06-07 21:52:18 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG <==      Total: 1
+2018-06-07 21:52:18 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG ==>  Preparing: insert into test(id, name) values(?,?) 
+2018-06-07 21:52:18 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG ==> Parameters: 15(Long), Ð¡Ã÷(String)
+2018-06-07 21:52:18 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG <==    Updates: 1
+2018-06-07 21:52:18 org.apache.ibatis.transaction.jdbc.JdbcTransaction.commit(JdbcTransaction.java:71) JdbcTransaction.java DEBUG Committing JDBC Connection [oracle.jdbc.driver.T4CConnection@70e8f8e]
+2018-06-07 21:52:42 util.MyBatisUtil.getFactory(MyBatisUtil.java:18) MyBatisUtil.java DEBUG ¿ªÊ¼Éú³Éfactory
+2018-06-07 21:52:43 org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-06-07 21:52:43 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 21:52:43 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 21:52:43 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 21:52:43 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 21:52:44 util.MyBatisUtil.getFactory(MyBatisUtil.java:21) MyBatisUtil.java DEBUG Éú³Éfactoryorg.apache.ibatis.session.defaults.DefaultSqlSessionFactory@192b07fd
+2018-06-07 21:52:44 util.MyBatisUtil.getSession(MyBatisUtil.java:28) MyBatisUtil.java DEBUG ¿ªÊ¼Éú³Ésession
+2018-06-07 21:52:44 util.MyBatisUtil.getSession(MyBatisUtil.java:35) MyBatisUtil.java DEBUG Éú³Ésessionorg.apache.ibatis.session.defaults.DefaultSqlSession@52a86356
+2018-06-07 21:52:44 org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:138) JdbcTransaction.java DEBUG Opening JDBC Connection
+2018-06-07 21:52:45 org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:387) PooledDataSource.java DEBUG Created connection 118394766.
+2018-06-07 21:52:45 org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:102) JdbcTransaction.java DEBUG Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@70e8f8e]
+2018-06-07 21:52:45 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG ==>  Preparing: select test_seq.nextval as id from dual 
+2018-06-07 21:52:46 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG ==> Parameters: 
+2018-06-07 21:52:46 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG <==      Total: 1
+2018-06-07 21:52:46 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG ==>  Preparing: insert into test(name) values(?) 
+2018-06-07 21:52:46 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG ==> Parameters: Ð¡Ã÷(String)
+2018-06-07 21:53:57 util.MyBatisUtil.getFactory(MyBatisUtil.java:18) MyBatisUtil.java DEBUG ¿ªÊ¼Éú³Éfactory
+2018-06-07 21:53:57 org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-06-07 21:53:57 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 21:53:57 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 21:53:57 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 21:53:57 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 21:53:58 util.MyBatisUtil.getFactory(MyBatisUtil.java:21) MyBatisUtil.java DEBUG Éú³Éfactoryorg.apache.ibatis.session.defaults.DefaultSqlSessionFactory@192b07fd
+2018-06-07 21:53:58 util.MyBatisUtil.getSession(MyBatisUtil.java:28) MyBatisUtil.java DEBUG ¿ªÊ¼Éú³Ésession
+2018-06-07 21:53:58 util.MyBatisUtil.getSession(MyBatisUtil.java:35) MyBatisUtil.java DEBUG Éú³Ésessionorg.apache.ibatis.session.defaults.DefaultSqlSession@52a86356
+2018-06-07 21:53:58 org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:138) JdbcTransaction.java DEBUG Opening JDBC Connection
+2018-06-07 21:53:59 org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:387) PooledDataSource.java DEBUG Created connection 118394766.
+2018-06-07 21:53:59 org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:102) JdbcTransaction.java DEBUG Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@70e8f8e]
+2018-06-07 21:53:59 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG ==>  Preparing: select test_seq.nextval as id from dual 
+2018-06-07 21:54:00 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG ==> Parameters: 
+2018-06-07 21:54:00 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG <==      Total: 1
+2018-06-07 21:54:00 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG ==>  Preparing: insert into test(id, name) values(?,#{name) 
+2018-06-07 21:54:00 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG ==> Parameters: 17(Long)
+2018-06-07 21:54:52 util.MyBatisUtil.getFactory(MyBatisUtil.java:18) MyBatisUtil.java DEBUG ¿ªÊ¼Éú³Éfactory
+2018-06-07 21:54:52 org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-06-07 21:54:52 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 21:54:52 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 21:54:52 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 21:54:52 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-07 21:54:53 util.MyBatisUtil.getFactory(MyBatisUtil.java:21) MyBatisUtil.java DEBUG Éú³Éfactoryorg.apache.ibatis.session.defaults.DefaultSqlSessionFactory@192b07fd
+2018-06-07 21:54:53 util.MyBatisUtil.getSession(MyBatisUtil.java:28) MyBatisUtil.java DEBUG ¿ªÊ¼Éú³Ésession
+2018-06-07 21:54:53 util.MyBatisUtil.getSession(MyBatisUtil.java:35) MyBatisUtil.java DEBUG Éú³Ésessionorg.apache.ibatis.session.defaults.DefaultSqlSession@52a86356
+2018-06-07 21:54:53 org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:138) JdbcTransaction.java DEBUG Opening JDBC Connection
+2018-06-07 21:54:54 org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:387) PooledDataSource.java DEBUG Created connection 118394766.
+2018-06-07 21:54:54 org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:102) JdbcTransaction.java DEBUG Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@70e8f8e]
+2018-06-07 21:54:54 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG ==>  Preparing: select test_seq.nextval from dual 
+2018-06-07 21:54:55 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG ==> Parameters: 
+2018-06-07 21:54:55 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG <==      Total: 1
+2018-06-07 21:54:55 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG ==>  Preparing: insert into test(id, name) values(?,?) 
+2018-06-07 21:54:55 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG ==> Parameters: 18(Long), Ð¡Ã÷(String)
+2018-06-07 21:54:55 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG <==    Updates: 1
+2018-06-07 21:54:55 org.apache.ibatis.transaction.jdbc.JdbcTransaction.commit(JdbcTransaction.java:71) JdbcTransaction.java DEBUG Committing JDBC Connection [oracle.jdbc.driver.T4CConnection@70e8f8e]
+2018-06-08 14:59:29 util.MyBatisUtil.getFactory(MyBatisUtil.java:18) MyBatisUtil.java DEBUG ¿ªÊ¼Éú³Éfactory
+2018-06-08 14:59:29 org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-06-08 14:59:30 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-08 14:59:30 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-08 14:59:30 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-08 14:59:30 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-08 14:59:30 util.MyBatisUtil.getFactory(MyBatisUtil.java:21) MyBatisUtil.java DEBUG Éú³Éfactoryorg.apache.ibatis.session.defaults.DefaultSqlSessionFactory@192b07fd
+2018-06-08 14:59:30 util.MyBatisUtil.getSession(MyBatisUtil.java:28) MyBatisUtil.java DEBUG ¿ªÊ¼Éú³Ésession
+2018-06-08 14:59:30 util.MyBatisUtil.getSession(MyBatisUtil.java:35) MyBatisUtil.java DEBUG Éú³Ésessionorg.apache.ibatis.session.defaults.DefaultSqlSession@52a86356
+2018-06-08 14:59:30 org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:138) JdbcTransaction.java DEBUG Opening JDBC Connection
+2018-06-08 14:59:33 org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:387) PooledDataSource.java DEBUG Created connection 386163331.
+2018-06-08 14:59:33 org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:102) JdbcTransaction.java DEBUG Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@17046283]
+2018-06-08 14:59:33 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG ==>  Preparing: select WWW, USERNAME, USERID, NAME, PWD10, PWD6, SECONDPWD, TEL, TEL1, EMAIL, EMAIL1, REGISTERDATE, PWDSAFE, NOTE, STRNUM, CARDIMAGE from userdata where WWW = ? and USERNAME = ? 
+2018-06-08 14:59:33 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG ==> Parameters: www.hao123.com(String), jiance520(String)
+2018-06-08 14:59:34 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG <==      Total: 1
+2018-06-20 21:12:45 util.MyBatisUtil.getFactory(MyBatisUtil.java:18) MyBatisUtil.java DEBUG ¿ªÊ¼Éú³Éfactory
+2018-06-20 21:12:46 org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-06-20 21:12:46 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-20 21:12:46 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-20 21:12:46 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-20 21:12:46 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-20 21:12:47 util.MyBatisUtil.getFactory(MyBatisUtil.java:21) MyBatisUtil.java DEBUG Éú³Éfactoryorg.apache.ibatis.session.defaults.DefaultSqlSessionFactory@192b07fd
+2018-06-20 21:12:47 util.MyBatisUtil.getSession(MyBatisUtil.java:28) MyBatisUtil.java DEBUG ¿ªÊ¼Éú³Ésession
+2018-06-20 21:12:47 util.MyBatisUtil.getSession(MyBatisUtil.java:35) MyBatisUtil.java DEBUG Éú³Ésessionorg.apache.ibatis.session.defaults.DefaultSqlSession@52a86356
+2018-06-20 21:12:47 org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:138) JdbcTransaction.java DEBUG Opening JDBC Connection
+2018-06-20 21:12:52 org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:387) PooledDataSource.java DEBUG Created connection 386163331.
+2018-06-20 21:12:52 org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:102) JdbcTransaction.java DEBUG Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@17046283]
+2018-06-20 21:12:52 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG ==>  Preparing: select WWW, USERNAME, USERID, NAME, PWD10, PWD6, SECONDPWD, TEL, TEL1, EMAIL, EMAIL1, REGISTERDATE, PWDSAFE, NOTE, STRNUM, CARDIMAGE from userdata where www = ? and username = ? 
+2018-06-20 21:12:52 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG ==> Parameters: www.hao123.com(String), jiance520(String)
+2018-06-20 21:12:53 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG <==      Total: 1
+2018-06-20 21:14:56 util.MyBatisUtil.getFactory(MyBatisUtil.java:16) MyBatisUtil.java DEBUG ¿ªÊ¼Éú³Éfactory
+2018-06-20 21:14:57 org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-06-20 21:14:57 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-20 21:14:57 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-20 21:14:57 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-20 21:14:57 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-20 21:14:57 util.MyBatisUtil.getFactory(MyBatisUtil.java:19) MyBatisUtil.java DEBUG Éú³Éfactoryorg.apache.ibatis.session.defaults.DefaultSqlSessionFactory@192b07fd
+2018-06-20 21:14:57 util.MyBatisUtil.getSession(MyBatisUtil.java:26) MyBatisUtil.java DEBUG ¿ªÊ¼Éú³Ésession
+2018-06-20 21:14:57 util.MyBatisUtil.getSession(MyBatisUtil.java:33) MyBatisUtil.java DEBUG Éú³Ésessionorg.apache.ibatis.session.defaults.DefaultSqlSession@52a86356
+2018-06-20 21:14:57 org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:138) JdbcTransaction.java DEBUG Opening JDBC Connection
+2018-06-20 21:14:59 org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:387) PooledDataSource.java DEBUG Created connection 386163331.
+2018-06-20 21:14:59 org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:102) JdbcTransaction.java DEBUG Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@17046283]
+2018-06-20 21:14:59 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG ==>  Preparing: select WWW, USERNAME, USERID, NAME, PWD10, PWD6, SECONDPWD, TEL, TEL1, EMAIL, EMAIL1, REGISTERDATE, PWDSAFE, NOTE, STRNUM, CARDIMAGE from userdata where www = ? and username = ? 
+2018-06-20 21:14:59 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG ==> Parameters: www.hao123.com(String), jiance520(String)
+2018-06-20 21:14:59 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG <==      Total: 1
+2018-06-20 21:15:32 util.MyBatisUtil.getFactory(MyBatisUtil.java:15) MyBatisUtil.java DEBUG ¿ªÊ¼Éú³Éfactory
+2018-06-20 21:15:33 org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-06-20 21:15:33 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-20 21:15:33 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-20 21:15:33 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-20 21:15:33 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-20 21:15:33 util.MyBatisUtil.getFactory(MyBatisUtil.java:18) MyBatisUtil.java DEBUG Éú³Éfactoryorg.apache.ibatis.session.defaults.DefaultSqlSessionFactory@192b07fd
+2018-06-20 21:15:33 util.MyBatisUtil.getSession(MyBatisUtil.java:25) MyBatisUtil.java DEBUG ¿ªÊ¼Éú³Ésession
+2018-06-20 21:15:33 util.MyBatisUtil.getSession(MyBatisUtil.java:32) MyBatisUtil.java DEBUG Éú³Ésessionorg.apache.ibatis.session.defaults.DefaultSqlSession@52a86356
+2018-06-20 21:15:33 org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:138) JdbcTransaction.java DEBUG Opening JDBC Connection
+2018-06-20 21:15:35 org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:387) PooledDataSource.java DEBUG Created connection 386163331.
+2018-06-20 21:15:35 org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:102) JdbcTransaction.java DEBUG Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@17046283]
+2018-06-20 21:15:35 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG ==>  Preparing: select WWW, USERNAME, USERID, NAME, PWD10, PWD6, SECONDPWD, TEL, TEL1, EMAIL, EMAIL1, REGISTERDATE, PWDSAFE, NOTE, STRNUM, CARDIMAGE from userdata where www = ? and username = ? 
+2018-06-20 21:15:35 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG ==> Parameters: www.hao123.com(String), jiance520(String)
+2018-06-20 21:15:35 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG <==      Total: 1
+2018-06-20 21:20:07 util.MyBatisUtil.getFactory(MyBatisUtil.java:15) MyBatisUtil.java DEBUG ¿ªÊ¼Éú³Éfactory
+2018-06-20 21:20:07 org.apache.ibatis.logging.LogFactory.setImplementation(LogFactory.java:135) LogFactory.java DEBUG Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2018-06-20 21:20:07 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-20 21:20:07 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-20 21:20:07 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-20 21:20:07 org.apache.ibatis.datasource.pooled.PooledDataSource.forceCloseAll(PooledDataSource.java:316) PooledDataSource.java DEBUG PooledDataSource forcefully closed/removed all connections.
+2018-06-20 21:20:08 util.MyBatisUtil.getFactory(MyBatisUtil.java:18) MyBatisUtil.java DEBUG Éú³Éfactoryorg.apache.ibatis.session.defaults.DefaultSqlSessionFactory@192b07fd
+2018-06-20 21:20:08 util.MyBatisUtil.getSession(MyBatisUtil.java:25) MyBatisUtil.java DEBUG ¿ªÊ¼Éú³Ésession
+2018-06-20 21:20:08 util.MyBatisUtil.getSession(MyBatisUtil.java:32) MyBatisUtil.java DEBUG Éú³Ésessionorg.apache.ibatis.session.defaults.DefaultSqlSession@52a86356
+2018-06-20 21:20:08 org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:138) JdbcTransaction.java DEBUG Opening JDBC Connection
+2018-06-20 21:20:09 org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:387) PooledDataSource.java DEBUG Created connection 386163331.
+2018-06-20 21:20:09 org.apache.ibatis.transaction.jdbc.JdbcTransaction.setDesiredAutoCommit(JdbcTransaction.java:102) JdbcTransaction.java DEBUG Setting autocommit to false on JDBC Connection [oracle.jdbc.driver.T4CConnection@17046283]
+2018-06-20 21:20:09 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG ==>  Preparing: select WWW, USERNAME, USERID, NAME, PWD10, PWD6, SECONDPWD, TEL, TEL1, EMAIL, EMAIL1, REGISTERDATE, PWDSAFE, NOTE, STRNUM, CARDIMAGE from userdata where www = ? and username = ? 
+2018-06-20 21:20:09 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG ==> Parameters: www.hao123.com(String), jiance520(String)
+2018-06-20 21:20:10 org.apache.ibatis.logging.jdbc.BaseJdbcLogger.debug(BaseJdbcLogger.java:142) BaseJdbcLogger.java DEBUG <==      Total: 1
